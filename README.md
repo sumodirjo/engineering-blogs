@@ -10,10 +10,15 @@ A curated list of engineering blog of startup and enterprise company.
 * [BenefitFocus](http://engineering.benefitfocus.com/) - Benefitfocus Engineering Blog.
 * [Bitly](http://word.bitly.com/) - Bitly Engineering.
 * [BitTorrent](http://engineering.bittorrent.com/) - BitTorrent Engineering Blog.
+* [Branch](https://blog.branch.io/) - Branch Blog.
 * [Carbon Five](http://blog.carbonfive.com/) - Carbon Five Blog.
 * [Cerner](http://engineering.cerner.com/) - Engineering Health, A Cerner Blog.
 * [Chartbeat](http://engineering.chartbeat.com/) - Chartbeat Engineering Blog.
 * [Cloudera](http://blog.cloudera.com/blog/) - Cloudera Technical Blog.
+* [Cloudflare](https://blog.cloudflare.com/) - Cloudflare blog.
+* [Cloudscaling](http://cloudscaling.com/blog/) - Cloudscaling Blog.
+* [Confluent](http://blog.confluent.io/) - Confluent Blog.
+* [ClusterHQ](https://clusterhq.com/blog/) - ClusterHQ Blog.
 * [Docker Blog](http://blog.docker.com) - Docker Blog.
 * [Dropbox](https://tech.dropbox.com/) - Dropbox Tech Blog.
 * [ebay](http://www.ebaytechblog.com) - ebay tech blog.
@@ -21,6 +26,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Etsy](https://codeascraft.com/) - Code As Craft, Etsy Engineering Blog.
 * [Eventbrite](https://engineering.eventbrite.com/) - Eventbrite Engineering Blog.
 * [Facebook](https://code.facebook.com/posts/) - Facebook Engineering Blog.
+* [FastMail](http://blog.fastmail.com/) - FastMail Blog.
 * [FiftyThree](http://making.fiftythree.com/) - Making Fifty Three.
 * [Flickr](http://code.flickr.net/) - Code.flickr.com.
 * [Flipboard](http://engineering.flipboard.com/) - Flipboard Engineering.
@@ -33,9 +39,13 @@ A curated list of engineering blog of startup and enterprise company.
 * [Harry's](http://engineering.harrys.com/) - Harry's Engineering.
 * [Heroku](http://engineering.heroku.com/) - Heroke Engineering Blog.
 * [HoneyBadger](https://www.honeybadger.io/blog) - HoneyBadger Blog.
+* [HubbleHQ](http://blog.hubblehq.com) - HubbleHQ Blog.
 * [Icehouse](https://www.icehousecorp.com/blog) - Ice House Blog.
+* [Import.io](http://blog.import.io/) - Import.io Blog.
 * [Indeed](http://engineering.indeed.com/blog/) - Indeed Engineering.
 * [Instagram](http://instagram-engineering.tumblr.com/) - Instagram Engineering.
+* [IntentHQ](http://engineering.intenthq.com/) - IntentHQ Engineering.
+* [Jelastic](http://blog.jelastic.com/) - Jelastic Blog.
 * [LinkedIn](http://engineering.linkedin.com/blog) - LinkedIn Engineering.
 * [LiveChat](http://developers.livechatinc.com/blog/) - LiveChat Developers Blog.
 * [Mandrill](http://blog.mandrill.com/) - Mandrill Blog.
@@ -44,6 +54,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Netflix](http://techblog.netflix.com/) - Netflix Tech Blog.
 * [Oyster](http://tech.oyster.com/) - Insights from Oyster.com's Tech Team.
 * [PayPal](https://www.paypal-engineering.com/) - PayPal Engineering.
+* [Phyramid](https://www.phyramid.com/blog/) - Phyramid Blog.
 * [Pinterest](http://engineering.pinterest.com/) - Making Pinterest.
 * [Postmarkapp](http://blog.postmarkapp.com/) - Postmarkapp Blog.
 * [Prezi](http://engineering.prezi.com/) - Prezi Engineering.
@@ -51,6 +62,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Reddit](http://blog.reddit.com/) - What's New on Reddit.
 * [Rightscale](http://eng.rightscale.com/) - Rightscale Engineering Blog.
 * [Salesforce](https://developer.salesforce.com/blogs/engineering/) - Salesforce Engineering Blog.
+* [Sensible](http://blog.sensible.io/) - Sensible Blog.
 * [Shopify](http://www.shopify.com/technology) - Shopify Engineering Blog.
 * [SlideShare](http://engineering.slideshare.net/) - SlideShare Engineering Blog.
 * [SmugMug](http://engineering.slideshare.com/) - SmugMug's Don MacAskill.
@@ -59,6 +71,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Spotify](https://labs.spotify.com/) - Spotify's Engineering and Technology Blog.
 * [Square](http://corner.squareup.com/) - The Corner, Square Engineering Blog.
 * [Starva](http://engineering.strava.com/) - Stara Engineering Blog.
+* [StormPath](https://stormpath.com/blog/) - StormPath Blog.
 * [Tumblr](http://engineering.tumblr.com/) - Tumblr Engineering.
 * [Twitter](https://blog.twitter.com/engineering) - Twitter Engineering.
 * [Twilio](https://www.twilio.com/engineering/) - Twilio Engineering.
@@ -67,6 +80,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Wayfair](http://engineering.wayfair.com/) - Wayfair Engineering.
 * [Wealthfront](http://eng.wealthfront.com/) - Wealthfront Engineering.
 * [WebEngage](http://engineering.webengage.com/) - WebEngage Engineering Blog.
+* [Workshape](http://blog.workshape.io/) - Workshape Blog.
 * [Yahoo!](http://yahooeng.tumblr.com/) - Yahoo! Engineering Blog.
 * [Yammer](http://eng.yammer.com/blog/) - Blog Yammer Engineering.
 * [Yelp](http://engineeringblog.yelp.com/) - Yelp Product and Engineering Blog.
