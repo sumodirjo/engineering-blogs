@@ -31,7 +31,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Flickr](http://code.flickr.net/) - Code.flickr.com.
 * [Flipboard](http://engineering.flipboard.com/) - Flipboard Engineering.
 * [FourSquare](http://engineering.foursquare.com/) - Foursquare Engineering Blog.
-* [GitHub](https://github.com/blog/category/engineering) - The GitHub Blog: Engineering.
+* [GitHub](http://githubengineering.com/) - The GitHub Blog: Engineering.
 * [Gnip](https://engineering.gnip.com/) - Gnip Engineering.
 * [GoSquared](https://engineering.gosquared.com/) - GoSquared Engineering Blog.
 * [Grouper](http://eng.joingrouper.com/) - Grouper Engineering Team Blog.
