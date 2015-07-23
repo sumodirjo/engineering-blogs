@@ -71,6 +71,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Spotify](https://labs.spotify.com/) - Spotify's Engineering and Technology Blog.
 * [Square](http://corner.squareup.com/) - The Corner, Square Engineering Blog.
 * [Starva](http://engineering.strava.com/) - Stara Engineering Blog.
+* [Stitch Fix](http://multithreaded.stitchfix.com/blog/) - Stitch Fix Engineering Blog.
 * [StormPath](https://stormpath.com/blog/) - StormPath Blog.
 * [Tumblr](http://engineering.tumblr.com/) - Tumblr Engineering.
 * [Twitter](https://blog.twitter.com/engineering) - Twitter Engineering.
