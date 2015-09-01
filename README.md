@@ -78,7 +78,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Twilio](https://www.twilio.com/engineering/) - Twilio Engineering.
 * [Thumbtack](http://www.thumbtack.com/engineering/) - Thumbtack Engineering.
 * [Uber](http://eng.uber.com/) - Uber Engineering.
-* [Venmo](http://blog.venmo.com/) - Venmo Blog.
+* [Venmo](http://blog.venmo.com/?category=Engineering) - Venmo Blog.
 * [Wayfair](http://engineering.wayfair.com/) - Wayfair Engineering.
 * [Wealthfront](http://eng.wealthfront.com/) - Wealthfront Engineering.
 * [WebEngage](http://engineering.webengage.com/) - WebEngage Engineering Blog.
