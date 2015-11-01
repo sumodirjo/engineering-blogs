@@ -59,6 +59,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Postmarkapp](http://blog.postmarkapp.com/) - Postmarkapp Blog.
 * [Prezi](http://engineering.prezi.com/) - Prezi Engineering.
 * [Quora](http://engineering.quora.com/) - Engineering at Quora.
+* [REA Group](http://techblog.realestate.com.au/engineering/) - REA Group Engineering Blog
 * [Reddit](http://blog.reddit.com/) - What's New on Reddit.
 * [Rightscale](http://eng.rightscale.com/) - Rightscale Engineering Blog.
 * [Riot Games Engineering](http://engineering.riotgames.com/) - Riot Games Engineering Blog.
