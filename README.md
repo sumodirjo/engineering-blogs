@@ -25,6 +25,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [EngineYard](https://blog.engineyard.com/) - Engine Yard Blog.
 * [Etsy](https://codeascraft.com/) - Code As Craft, Etsy Engineering Blog.
 * [Eventbrite](https://engineering.eventbrite.com/) - Eventbrite Engineering Blog.
+* [Evernote](https://blog.evernote.com/tech/) - Evernote Tech Blog | The Care and Feeding of Elephants.
 * [Facebook](https://code.facebook.com/posts/) - Facebook Engineering Blog.
 * [FastMail](http://blog.fastmail.com/) - FastMail Blog.
 * [FiftyThree](http://making.fiftythree.com/) - Making Fifty Three.
