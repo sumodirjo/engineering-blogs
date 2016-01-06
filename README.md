@@ -18,6 +18,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Cloudflare](https://blog.cloudflare.com/) - Cloudflare blog.
 * [Cloudscaling](http://cloudscaling.com/blog/) - Cloudscaling Blog.
 * [Confluent](http://blog.confluent.io/) - Confluent Blog.
+* [Coursera](http://blog.coursera.org/) - Coursera Blog.
 * [ClusterHQ](https://clusterhq.com/blog/) - ClusterHQ Blog.
 * [Docker Blog](http://blog.docker.com) - Docker Blog.
 * [Dropbox](https://tech.dropbox.com/) - Dropbox Tech Blog.
@@ -44,9 +45,11 @@ A curated list of engineering blog of startup and enterprise company.
 * [Icehouse](https://www.icehousecorp.com/blog) - Ice House Blog.
 * [Import.io](http://blog.import.io/) - Import.io Blog.
 * [Indeed](http://engineering.indeed.com/blog/) - Indeed Engineering.
+* [Influxdata](https://influxdata.com/blog/) - Influxdata Blog.
 * [Instagram](http://instagram-engineering.tumblr.com/) - Instagram Engineering.
 * [IntentHQ](http://engineering.intenthq.com/) - IntentHQ Engineering.
 * [Jelastic](http://blog.jelastic.com/) - Jelastic Blog.
+* [Khan Academy Engineering Blog](http://engineering.khanacademy.org/) - Khan Academy Engineering Blog.
 * [LinkedIn](http://engineering.linkedin.com/blog) - LinkedIn Engineering.
 * [LiveChat](http://developers.livechatinc.com/blog/) - LiveChat Developers Blog.
 * [Mandrill](http://blog.mandrill.com/) - Mandrill Blog.
@@ -55,11 +58,14 @@ A curated list of engineering blog of startup and enterprise company.
 * [Netflix](http://techblog.netflix.com/) - Netflix Tech Blog.
 * [Oyster](http://tech.oyster.com/) - Insights from Oyster.com's Tech Team.
 * [PayPal](https://www.paypal-engineering.com/) - PayPal Engineering.
+* [Persiscope Data](https://www.periscopedata.com/blog) - Periscope Data Blog.
 * [Phyramid](https://www.phyramid.com/blog/) - Phyramid Blog.
 * [Pinterest](http://engineering.pinterest.com/) - Making Pinterest.
 * [Postmarkapp](http://blog.postmarkapp.com/) - Postmarkapp Blog.
 * [Prezi](http://engineering.prezi.com/) - Prezi Engineering.
 * [Quora](http://engineering.quora.com/) - Engineering at Quora.
+* [Raintank](https://blog.raintank.io/) - Raintank Blog.
+* [Algorithm & Blues](https://algorithms.rdio.com/) - Rdio Engineering blog.
 * [REA Group](http://techblog.realestate.com.au/engineering/) - REA Group Engineering Blog
 * [Reddit](http://blog.reddit.com/) - What's New on Reddit.
 * [Rightscale](http://eng.rightscale.com/) - Rightscale Engineering Blog.
@@ -81,6 +87,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Twilio](https://www.twilio.com/engineering/) - Twilio Engineering.
 * [Thumbtack](http://www.thumbtack.com/engineering/) - Thumbtack Engineering.
 * [Uber](http://eng.uber.com/) - Uber Engineering.
+* [Udacity](http://blog.udacity.com/) - Udacity Blog.
 * [Venmo](http://blog.venmo.com/?category=Engineering) - Venmo Blog.
 * [Wayfair](http://engineering.wayfair.com/) - Wayfair Engineering.
 * [Wealthfront](http://eng.wealthfront.com/) - Wealthfront Engineering.
