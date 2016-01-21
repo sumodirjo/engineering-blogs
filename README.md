@@ -97,6 +97,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Starva](http://engineering.strava.com/) - Stara Engineering Blog.
 * [Stitch Fix](http://multithreaded.stitchfix.com/blog/) - Stitch Fix Engineering Blog.
 * [StormPath](https://stormpath.com/blog/) - StormPath Blog.
+* [Stylight](http://tech.stylight.com/) - Stylight Tech Blog
 * [TellApart](https://www.tellapart.com/engineering-blog/) - TellApart Blog.
 * [Tilt](http://engineering.tilt.com/) - Tilt Engineering Blog.
 * [Toptal](http://www.toptal.com/blog) - Toptal Blog.
