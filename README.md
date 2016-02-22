@@ -24,6 +24,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Coursera](http://blog.coursera.org/) - Coursera Blog.
 * [ClusterHQ](https://clusterhq.com/blog/) - ClusterHQ Blog.
 * [Crowdbooster](http://blog.crowdbooster.com/) - Crowdbooster Blog.
+* [Dailymotion](http://engineering.dailymotion.com/) - Dailymotion Engineering Blog.
 * [Datafloq](https://datafloq.com/read/) - Datafloq Blog.
 * [Dataiku](https://www.dataiku.com/blog/) - Dataiku Blog.
 * [DCHQ.io](http://dchq.co/blog.html) - DCHQ Blog.
