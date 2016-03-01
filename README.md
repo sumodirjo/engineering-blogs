@@ -11,6 +11,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [BetterWorks](https://engineering.betterworks.com/) - Betterworks Blog.
 * [Bitly](http://word.bitly.com/) - Bitly Engineering.
 * [BitTorrent](http://engineering.bittorrent.com/) - BitTorrent Engineering Blog.
+* [Blablacar](http://blablatech.com/) - Blablacar Engineering Blog.
 * [Branch](https://blog.branch.io/) - Branch Blog.
 * [Canva](https://engineering.canva.com/) Canva Blog.
 * [Captricity](http://captricity.com/blog/) - Captricity Blog.
@@ -25,6 +26,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Coursera](http://blog.coursera.org/) - Coursera Blog.
 * [ClusterHQ](https://clusterhq.com/blog/) - ClusterHQ Blog.
 * [Crowdbooster](http://blog.crowdbooster.com/) - Crowdbooster Blog.
+* [Dailymotion](http://engineering.dailymotion.com/) - Dailymotion Engineering Blog.
 * [Datafloq](https://datafloq.com/read/) - Datafloq Blog.
 * [Dataiku](https://www.dataiku.com/blog/) - Dataiku Blog.
 * [DCHQ.io](http://dchq.co/blog.html) - DCHQ Blog.
@@ -98,6 +100,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Starva](http://engineering.strava.com/) - Stara Engineering Blog.
 * [Stitch Fix](http://multithreaded.stitchfix.com/blog/) - Stitch Fix Engineering Blog.
 * [StormPath](https://stormpath.com/blog/) - StormPath Blog.
+* [Stylight](http://tech.stylight.com/) - Stylight Tech Blog
 * [TellApart](https://www.tellapart.com/engineering-blog/) - TellApart Blog.
 * [Tilt](http://engineering.tilt.com/) - Tilt Engineering Blog.
 * [Toptal](http://www.toptal.com/blog) - Toptal Blog.
