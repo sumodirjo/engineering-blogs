@@ -17,6 +17,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Carbon Five](http://blog.carbonfive.com/) - Carbon Five Blog.
 * [Cerner](http://engineering.cerner.com/) - Engineering Health, A Cerner Blog.
 * [Chartbeat](http://engineering.chartbeat.com/) - Chartbeat Engineering Blog.
+* [Close.io](https://hack.close.io/) - Close.io Engineering blog.
 * [Cloudera](http://blog.cloudera.com/blog/) - Cloudera Technical Blog.
 * [Cloudflare](https://blog.cloudflare.com/) - Cloudflare blog.
 * [Cloudscaling](http://cloudscaling.com/blog/) - Cloudscaling Blog.
