@@ -91,6 +91,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Sensible](http://blog.sensible.io/) - Sensible Blog.
 * [Shopify](https://engineering.shopify.com) - Shopify Engineering Blog.
 * [Simulmedia](http://www.simulmedia.com/resources/blog/categories/engineering/) - Simulmedia Engineering.
+* [Slack](https://slack.engineering/) - Slack Engineering Blog.
 * [SlideShare](http://engineering.slideshare.net/) - SlideShare Engineering Blog.
 * [SmugMug](http://engineering.slideshare.com/) - SmugMug's Don MacAskill.
 * [Songkick](http://devblog.songkick.com/) - Songkick Technology Blog.
