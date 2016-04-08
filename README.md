@@ -5,6 +5,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
 * [Asana](https://eng.asana.com/) - Asana Engineering.
+* [Backtrace](https://backtrace.io/blog/) - Backtrace Blog.
 * [BandCamp](http://bandcamptech.wordpress.com/) - Bandcamp Tech.
 * [BankSimple](https://www.simple.com/engineering/) - Simple Blog.
 * [BenefitFocus](http://engineering.benefitfocus.com/) - Benefitfocus Engineering Blog.
