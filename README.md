@@ -1,5 +1,5 @@
 # Engineering Blogs
-A curated list of engineering blog of startup and enterprise company.
+A curated list of engineering blogs of startup and enterprise companies.
 
 * [AirBnB](http://nerds.airbnb.com/) - AirBnB Engineering blog.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
