@@ -68,6 +68,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Khan Academy Engineering Blog](http://engineering.khanacademy.org/) - Khan Academy Engineering Blog.
 * [LinkedIn](https://engineering.linkedin.com/blog) - LinkedIn Engineering.
 * [LiveChat](https://developers.livechatinc.com/blog/) - LiveChat Developers Blog.
+* [Machinalis](http://www.machinalis.com/blog/) - Machinalis Blog.
 * [Mandrill](http://blog.mandrill.com/) - Mandrill Blog.
 * [Medallia](http://engineering.medallia.com/blog/) - Medallia Engineering Blog.
 * [Mixpanel](https://mixpanel.com/blog/) - Mixpanel Blog.
