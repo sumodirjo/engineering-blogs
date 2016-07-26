@@ -66,6 +66,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [IntentHQ](http://engineering.intenthq.com/) - IntentHQ Engineering.
 * [Intercom.io](https://blog.intercom.io) - Intercom Blog.
 * [Jelastic](http://blog.jelastic.com/) - Jelastic Blog.
+* [Jolly Good Code](https://jollygoodcode.github.io/) - Jolly Good Code Blog.
 * [Kaggle](http://blog.kaggle.com/) - Kaggle Blog.
 * [Khan Academy Engineering Blog](http://engineering.khanacademy.org/) - Khan Academy Engineering Blog.
 * [LinkedIn](https://engineering.linkedin.com/blog) - LinkedIn Engineering.
