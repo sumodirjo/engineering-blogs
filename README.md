@@ -123,7 +123,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [WebEngage](http://engineering.webengage.com/) - WebEngage Engineering Blog.
 * [Workshape](http://blog.workshape.io/) - Workshape Blog.
 * [Yahoo!](http://yahooeng.tumblr.com/) - Yahoo! Engineering Blog.
-* [Yammer](http://eng.yammer.com/blog/) - Blog Yammer Engineering.
+* [Yammer](https://medium.com/@YammerEng) - Blog Yammer Engineering.
 * [Yelp](http://engineeringblog.yelp.com/) - Yelp Product and Engineering Blog.
 * [Zalando](https://tech.zalando.com/blog/) - Zalando Tech Blog.
 * [Zenefits](https://engineering.zenefits.com/posts/) - Zenefits Engineering Blog.
