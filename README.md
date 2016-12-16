@@ -27,6 +27,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Cloudscaling](http://cloudscaling.com/blog/) - Cloudscaling Blog.
 * [cookpad](https://sourcediving.com/) - cookpad Blog.
 * [Confluent](http://www.confluent.io/blog) - Confluent Blog.
+* [Codeminer42](https://blog.codeminer42.com/) - The Miners, Codeminer42 Engineering Blog.
 * [Coursera](https://blog.coursera.org/) - Coursera Blog.
 * [ClusterHQ](https://clusterhq.com/blog/) - ClusterHQ Blog.
 * [Crowdbooster](http://blog.crowdbooster.com/) - Crowdbooster Blog.
