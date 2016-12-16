@@ -81,7 +81,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Netflix](http://techblog.netflix.com/) - Netflix Tech Blog.
 * [Oyster](http://tech.oyster.com/) - Insights from Oyster.com's Tech Team.
 * [Pagerduty](https://www.pagerduty.com/blog/) - Pagerduty Blog.
-* [Pagico](www.pagico.com/blog/) - Pagico Blog.
+* [Pagico](https://www.pagico.com/blog/) - Pagico Blog.
 * [PayPal](https://www.paypal-engineering.com/) - PayPal Engineering.
 * [Persiscope Data](https://www.periscopedata.com/blog) - Periscope Data Blog.
 * [Phyramid](https://www.phyramid.com/blog/) - Phyramid Blog.
