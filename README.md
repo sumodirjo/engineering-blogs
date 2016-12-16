@@ -25,6 +25,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Cloudera](http://blog.cloudera.com/blog/) - Cloudera Technical Blog.
 * [Cloudflare](https://blog.cloudflare.com/) - Cloudflare blog.
 * [Cloudscaling](http://cloudscaling.com/blog/) - Cloudscaling Blog.
+* [cookpad](https://sourcediving.com/) - cookpad Blog.
 * [Confluent](http://www.confluent.io/blog) - Confluent Blog.
 * [Coursera](https://blog.coursera.org/) - Coursera Blog.
 * [ClusterHQ](https://clusterhq.com/blog/) - ClusterHQ Blog.
