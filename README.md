@@ -128,6 +128,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Yammer](https://medium.com/@YammerEng) - Blog Yammer Engineering.
 * [Yelp](http://engineeringblog.yelp.com/) - Yelp Product and Engineering Blog.
 * [Zalando](https://tech.zalando.com/blog/) - Zalando Tech Blog.
+* [Zapier](https://zapier.com/engineering/) - Zapier Engineering Blog.
 * [Zenefits](https://engineering.zenefits.com/posts/) - Zenefits Engineering Blog.
 * [ZenPayroll](http://engineering.zenpayroll.com/) - ZenPayroll Engineering.
 * [Zillow](https://engineering.zillow.com/) - Zillow Engineering Blog.
