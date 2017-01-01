@@ -52,6 +52,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [FourSquare](http://engineering.foursquare.com/) - Foursquare Engineering Blog.
 * [GitHub](http://githubengineering.com/) - The GitHub Blog: Engineering.
 * [Gnip](https://engineering.gnip.com/) - Gnip Engineering.
+* [Google Developers](https://developers.googleblog.com/) - Google Developers Blog. 
 * [GoSquared](https://engineering.gosquared.com/) - GoSquared Engineering Blog.
 * [Grouper](http://eng.joingrouper.com/) - Grouper Engineering Team Blog.
 * [Groupon](https://engineering.groupon.com/) - Groupon Engineering Blog.
