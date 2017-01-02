@@ -15,6 +15,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Bitly](http://word.bitly.com/) - Bitly Engineering.
 * [BitTorrent](http://engineering.bittorrent.com/) - BitTorrent Engineering Blog.
 * [Blablacar](http://blablatech.com/) - Blablacar Engineering Blog.
+* [BlackRock Engineering](http://rockthecode.io/) - BlackRock Engineering Blog.
 * [Branch](https://blog.branch.io/) - Branch Blog.
 * [Booking](https://blog.booking.com/) - Booking.com Blog. 
 * [Canva](https://engineering.canva.com/) Canva Blog.
