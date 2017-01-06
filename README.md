@@ -37,6 +37,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Datafloq](https://datafloq.com/read/) - Datafloq Blog.
 * [Dataiku](https://www.dataiku.com/blog/) - Dataiku Blog.
 * [DCHQ.io](http://dchq.co/blog.html) - DCHQ Blog.
+* [Making Dia](https://making.dia.com/) - Dia&Co. Engineering Blog.
 * [Docker Blog](https://blog.docker.com/) - Docker Blog.
 * [Dropbox](https://blogs.dropbox.com/tech/) - Dropbox Tech Blog.
 * [ebay](http://www.ebaytechblog.com) - eBay Tech Blog.
