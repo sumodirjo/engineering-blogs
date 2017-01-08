@@ -2,6 +2,7 @@
 A curated list of engineering blogs of startup and enterprise companies.
 
 * [9GAG](https://engineering.9gag.com/) - 9GAG Engineering Blog.
+* [Advanced Web Machinery](https://advancedweb.hu/) - Advanced web Machinery Blog.
 * [AirBnB](http://nerds.airbnb.com/) - AirBnB Engineering blog.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
