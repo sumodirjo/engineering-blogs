@@ -1,6 +1,7 @@
 # Engineering Blogs
 A curated list of engineering blogs of startup and enterprise companies.
 
+* [99designs](https://99designs.com/tech-blog/) - 99designs Tech Blog.
 * [9GAG](https://engineering.9gag.com/) - 9GAG Engineering Blog.
 * [AirBnB](http://nerds.airbnb.com/) - AirBnB Engineering blog.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
