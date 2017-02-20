@@ -86,6 +86,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Medallia](http://engineering.medallia.com/blog/) - Medallia Engineering Blog.
 * [Mixpanel](https://mixpanel.com/blog/) - Mixpanel Blog.
 * [Monetate](http://engineering.monetate.com/) - Monetate Engineering Blog.
+* [Monsanto](http://engineering.monsanto.com/) - Monsanto Engineering Blog.
 * [Netflix](http://techblog.netflix.com/) - Netflix Tech Blog.
 * [Oyster](http://tech.oyster.com/) - Insights from Oyster.com's Tech Team.
 * [Pagerduty](https://www.pagerduty.com/blog/) - Pagerduty Blog.
