@@ -31,6 +31,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Cloudera](http://blog.cloudera.com/blog/) - Cloudera Technical Blog.
 * [Cloudflare](https://blog.cloudflare.com/) - Cloudflare blog.
 * [Cloudscaling](http://cloudscaling.com/blog/) - Cloudscaling Blog.
+* [Compass](https://medium.com/compass-true-north/) - Compass Engineering Blog.
 * [cookpad](https://sourcediving.com/) - cookpad Blog.
 * [Confluent](http://www.confluent.io/blog) - Confluent Blog.
 * [Codeminer42](https://blog.codeminer42.com/) - The Miners, Codeminer42 Engineering Blog.
