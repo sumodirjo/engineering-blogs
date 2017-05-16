@@ -81,6 +81,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Jolly Good Code](https://jollygoodcode.github.io/) - Jolly Good Code Blog.
 * [Kaggle](http://blog.kaggle.com/) - Kaggle Blog.
 * [Khan Academy Engineering Blog](http://engineering.khanacademy.org/) - Khan Academy Engineering Blog.
+* [Levvel](https://www.levvel.io/blog/) - Levvel Blog.
 * [LinkedIn](https://engineering.linkedin.com/blog) - LinkedIn Engineering.
 * [LiveChat](https://developers.livechatinc.com/blog/) - LiveChat Developers Blog.
 * [Machinalis](http://www.machinalis.com/blog/) - Machinalis Blog.
