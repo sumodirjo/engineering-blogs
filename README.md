@@ -21,7 +21,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Blablacar](http://blablatech.com/) - Blablacar Engineering Blog.
 * [BlackRock Engineering](http://rockthecode.io/) - BlackRock Engineering Blog.
 * [Branch](https://blog.branch.io/) - Branch Blog.
-* [Booking](https://blog.booking.com/) - Booking.com Blog. 
+* [Booking](https://blog.booking.com/) - Booking.com Blog.
 * [Canva](https://engineering.canva.com/) Canva Blog.
 * [Captricity](http://captricity.com/blog/) - Captricity Blog.
 * [Carbon Five](http://blog.carbonfive.com/) - Carbon Five Blog.
@@ -60,7 +60,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [FourSquare](http://engineering.foursquare.com/) - Foursquare Engineering Blog.
 * [GitHub](http://githubengineering.com/) - The GitHub Blog: Engineering.
 * [Gnip](https://engineering.gnip.com/) - Gnip Engineering.
-* [Google Developers](https://developers.googleblog.com/) - Google Developers Blog. 
+* [Google Developers](https://developers.googleblog.com/) - Google Developers Blog.
 * [GoSquared](https://engineering.gosquared.com/) - GoSquared Engineering Blog.
 * [Grouper](http://eng.joingrouper.com/) - Grouper Engineering Team Blog.
 * [Groupon](https://engineering.groupon.com/) - Groupon Engineering Blog.
@@ -118,7 +118,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [SoundCloud](https://developers.soundcloud.com/blog/) - SoundCloud Backstage.
 * [Spotify](https://labs.spotify.com/) - Spotify's Engineering and Technology Blog.
 * [Square](https://corner.squareup.com/) - The Corner, Square Engineering Blog.
-* [Starva](http://labs.strava.com) - Stara Engineering Blog.
+* [Strava](http://labs.strava.com) - Strava Labs.
 * [Stitch Fix](http://multithreaded.stitchfix.com/blog/) - Stitch Fix Engineering Blog.
 * [StormPath](https://stormpath.com/blog/) - StormPath Blog.
 * [Stylight](http://tech.stylight.com/) - Stylight Tech Blog
