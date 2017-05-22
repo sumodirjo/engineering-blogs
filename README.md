@@ -7,6 +7,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Advanced Web Machinery](https://advancedweb.hu/) - Advanced web Machinery Blog.
 * [AirBnB](http://nerds.airbnb.com/) - AirBnB Engineering blog.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
+* [Amazon](https://developer.amazon.com/blogs) - Amazon Developer Blog.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
 * [Asana](https://blog.asana.com/category/eng/) - Asana Engineering.
 * [Atlassian](https://developer.atlassian.com/blog/) - Atlassian Engineering Blog.
@@ -22,11 +23,13 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [BlackRock Engineering](http://rockthecode.io/) - BlackRock Engineering Blog.
 * [Branch](https://blog.branch.io/) - Branch Blog.
 * [Booking](https://blog.booking.com/) - Booking.com Blog.
+* [BookMyShow](https://we-are.bookmyshow.com/) - BookMyShow Blog.
 * [Canva](https://engineering.canva.com/) Canva Blog.
 * [Captricity](http://captricity.com/blog/) - Captricity Blog.
 * [Carbon Five](http://blog.carbonfive.com/) - Carbon Five Blog.
 * [Cerner](http://engineering.cerner.com/) - Engineering Health, A Cerner Blog.
 * [Chartbeat](http://engineering.chartbeat.com/) - Chartbeat Engineering Blog.
+* [Cleartrip](https://medium.com/cleartrip) - Cleartrip Blog.
 * [Close.io](https://hack.close.io/) - Close.io Engineering blog.
 * [Cloudera](http://blog.cloudera.com/blog/) - Cloudera Technical Blog.
 * [Cloudflare](https://blog.cloudflare.com/) - Cloudflare blog.
@@ -56,6 +59,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [FiftyThree](http://making.fiftythree.com/) - Making Fifty Three.
 * [Flickr](http://code.flickr.net/) - Code.flickr.com.
 * [Flipboard](http://engineering.flipboard.com/) - Flipboard Engineering.
+* [Flipkart](http://tech-blog.flipkart.net/) - Flipkart Engineering.
 * [Fluidinfo](http://blogs.fluidinfo.com/) - Fluidinfo Blog.
 * [FourSquare](http://engineering.foursquare.com/) - Foursquare Engineering Blog.
 * [GitHub](http://githubengineering.com/) - The GitHub Blog: Engineering.
@@ -67,6 +71,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Harry's](http://engineering.harrys.com/) - Harry's Engineering.
 * [Heroku](https://engineering.heroku.com/) - Heroku Engineering Blog.
 * [HoneyBadger](http://blog.honeybadger.io) - HoneyBadger Blog.
+* [Housing](https://medium.com/engineering-housing) - Housing Engineering Blog.
 * [HubbleHQ](https://hubblehq.com/blog) - HubbleHQ Blog.
 * [Icehouse](https://www.icehousecorp.com/blog/) - Ice House Blog.
 * [Import.io](https://www.import.io/blog/) - Import.io Blog.
@@ -90,6 +95,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Mixpanel](https://mixpanel.com/blog/) - Mixpanel Blog.
 * [Monetate](http://engineering.monetate.com/) - Monetate Engineering Blog.
 * [Monsanto](http://engineering.monsanto.com/) - Monsanto Engineering Blog.
+* [Myntra](https://medium.com/myntra-engineering) - Myntra Engineering Blog.
 * [Netflix](http://techblog.netflix.com/) - Netflix Tech Blog.
 * [Oyster](http://tech.oyster.com/) - Insights from Oyster.com's Tech Team.
 * [Pagerduty](https://www.pagerduty.com/blog/) - Pagerduty Blog.
@@ -99,6 +105,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Phyramid](https://www.phyramid.com/blog/) - Phyramid Blog.
 * [Pinterest](https://engineering.pinterest.com/) - Making Pinterest.
 * [Postmarkapp](https://postmarkapp.com/blog) - Postmarkapp Blog.
+* [Practo](https://medium.com/practo-engineering) - Practo Engineering Blog.
 * [Prezi](http://engineering.prezi.com/) - Prezi Engineering.
 * [Quora](http://engineering.quora.com/) - Engineering at Quora.
 * [Raintank](https://blog.raintank.io/) - Raintank Blog.
