@@ -154,5 +154,5 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Zapier](https://zapier.com/engineering/)                                      | Zapier Engineering Blog.                                |
 | [Zenefits](https://engineering.zenefits.com/posts/)                            | Zenefits Engineering Blog.                              |
 | [ZenPayroll](http://engineering.zenpayroll.com/)                               | ZenPayroll Engineering.                                 |
-| [Zillow](https://engineering.zillow.com/)                                      | Zillow Engineering Blog.                                |
+| [Zillow](https://www.zillow.com/engineering/)                                      | Zillow Engineering Blog.                                |
 | [Zomato](https://engineering.zomato.com/)                                      | Zomato Engineering Blog.                                |
