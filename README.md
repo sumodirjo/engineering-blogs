@@ -10,7 +10,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
-| [Artsy](http://artsy.github.io/)                                               | Artsy Engineering Blog.                                 |
+| [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Avant](http://avant.engineering/)                                             | Avant Engineering.                                      |
@@ -27,18 +27,18 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Booking](https://blog.booking.com/)                                           | Booking.com Blog.                                       |
 | [BookMyShow](https://we-are.bookmyshow.com/)                                   | BookMyShow Blog.                                        |
 | [Canva](https://engineering.canva.com/)                                        | Canva Blog                                              |
-| [Captricity](http://captricity.com/blog/)                                      | Captricity Blog.                                        |
+| [Captricity](https://captricity.com/blog/)                                     | Captricity Blog.                                        |
 | [Carbon Five](http://blog.carbonfive.com/)                                     | Carbon Five Blog.                                       |
 | [Cerner](http://engineering.cerner.com/)                                       | Engineering Health, A Cerner Blog.                      |
 | [Chartbeat](http://engineering.chartbeat.com/)                                 | Chartbeat Engineering Blog.                             |
 | [Cleartrip](https://medium.com/cleartrip)                                      | Cleartrip Blog.                                         |
 | [Close.io](https://hack.close.io/)                                             | Close.io Engineering blog.                              |
-| [Cloudera](http://blog.cloudera.com/blog/)                                     | Cloudera Technical Blog.                                |
+| [Cloudera](https://blog.cloudera.com/)                                         | Cloudera Technical Blog.                                |
 | [Cloudflare](https://blog.cloudflare.com/)                                     | Cloudflare blog.                                        |
-| [Cloudscaling](http://cloudscaling.com/blog/)                                  | Cloudscaling Blog.                                      |
+| [Cloudscaling](https://cloudscaling.com/blog/)                                 | Cloudscaling Blog.                                      |
 | [Compass](https://medium.com/compass-true-north/)                              | Compass Engineering Blog.                               |
 | [cookpad](https://sourcediving.com/)                                           | cookpad Blog.                                           |
-| [Confluent](http://www.confluent.io/blog)                                      | Confluent Blog.                                         |
+| [Confluent](https://www.confluent.io/blog)                                     | Confluent Blog.                                         |
 | [Codeminer42](https://blog.codeminer42.com/)                                   | The Miners, Codeminer42 Engineering Blog.               |
 | [Coursera](https://blog.coursera.org/)                                         | Coursera Blog.                                          |
 | [ClusterHQ](https://clusterhq.com/blog/)                                       | ClusterHQ Blog.                                         |
@@ -60,25 +60,25 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [FastMail](https://blog.fastmail.com/)                                         | FastMail Blog.                                          |
 | [Feedly](https://blog.feedly.com/)                                             | Feedly Blog.                                            |
 | [FiftyThree](http://making.fiftythree.com/)                                    | Making Fifty Three.                                     |
-| [Flickr](http://code.flickr.net/)                                              | Code.flickr.com.                                        |
+| [Flickr](https://code.flickr.net/)                                             | Code.flickr.com.                                        |
 | [Flipboard](http://engineering.flipboard.com/)                                 | Flipboard Engineering.                                  |
 | [Flipkart](http://tech-blog.flipkart.net/)                                     | Flipkart Engineering.                                   |
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
-| [FourSquare](http://engineering.foursquare.com/)                               | Foursquare Engineering Blog.                            |
-| [GitHub](http://githubengineering.com/)                                        | The GitHub Blog: Engineering.                           |
+| [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
+| [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
 | [Gnip](https://engineering.gnip.com/)                                          | Gnip Engineering.                                       |
 | [Google Developers](https://developers.googleblog.com/)                        | Google Developers Blog.                                 |
 | [GoSquared](https://engineering.gosquared.com/)                                | GoSquared Engineering Blog.                             |
-| [Grab](http://engineering.grab.com/)                                           | Grab Tech Blog.                                          |
+| [Grab](http://engineering.grab.com/)                                           | Grab Tech Blog.                                         |
 | [Grofers](https://lambda.grofers.com)                                          | Lambda-The Grofers Engineering Blog.                    |
 | [Grouper](http://eng.joingrouper.com/)                                         | Grouper Engineering Team Blog.                          |
 | [Groupon](https://engineering.groupon.com/)                                    | Groupon Engineering Blog.                               |
 | [Harry's](http://engineering.harrys.com/)                                      | Harry's Engineering.                                    |
 | [Heroku](https://engineering.heroku.com/)                                      | Heroku Engineering Blog.                                |
-| [HoneyBadger](http://blog.honeybadger.io)                                      | HoneyBadger Blog.                                       |
+| [HoneyBadger](https://blog.honeybadger.io)                                     | HoneyBadger Blog.                                       |
 | [Housing](https://medium.com/engineering-housing)                              | Housing Engineering Blog.                               |
 | [HubbleHQ](https://hubblehq.com/blog)                                          | HubbleHQ Blog.                                          |
-| [Hulu](http://tech.hulu.com/)                                                  | Hulu Tech Blog.                                           |
+| [Hulu](https://tech.hulu.com/)                                                 | Hulu Tech Blog.                                         |
 | [Icehouse](https://www.icehousecorp.com/blog/)                                 | Ice House Blog.                                         |
 | [Import.io](https://www.import.io/blog/)                                       | Import.io Blog.                                         |
 | [Indeed](http://engineering.indeedblog.com/blog/)                              | Indeed Engineering.                                     |
@@ -87,18 +87,18 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Instagram](http://instagram-engineering.tumblr.com/)                          | Instagram Engineering.                                  |
 | [IntentHQ](http://engineering.intenthq.com/)                                   | IntentHQ Engineering.                                   |
 | [Intercom.io](https://blog.intercom.io)                                        | Intercom Blog.                                          |
-| [Jampp](http://geeks.jampp.com/)                                               | Jampp's Engineering Blog.                               |
-| [Jelastic](http://blog.jelastic.com/)                                          | Jelastic Blog.                                          |
+| [Jampp](https://geeks.jampp.com/)                                              | Jampp's Engineering Blog.                               |
+| [Jelastic](https://blog.jelastic.com/)                                         | Jelastic Blog.                                          |
 | [Jolly Good Code](https://jollygoodcode.github.io/)                            | Jolly Good Code Blog.                                   |
 | [Kaggle](http://blog.kaggle.com/)                                              | Kaggle Blog.                                            |
 | [Khan Academy Engineering Blog](http://engineering.khanacademy.org/)           | Khan Academy Engineering Blog.                          |
 | [Levvel](https://www.levvel.io/blog/)                                          | Levvel Blog.                                            |
 | [LinkedIn](https://engineering.linkedin.com/blog)                              | LinkedIn Engineering.                                   |
 | [LiveChat](https://developers.livechatinc.com/blog/)                           | LiveChat Developers Blog.                               |
-| [Machinalis](http://www.machinalis.com/blog/)                                  | Machinalis Blog.                                        |
+| [Machinalis](https://www.machinalis.com/blog/)                                 | Machinalis Blog.                                        |
 | [Mandrill](http://blog.mandrill.com/)                                          | Mandrill Blog.                                          |
-| [Medallia](http://engineering.medallia.com/blog/)                              | Medallia Engineering Blog.                              |
-| [Medium](https://medium.engineering/)                                          | Medium Engineering Blog.                              |
+| [Medallia](https://engineering.medallia.com/blog/)                             | Medallia Engineering Blog.                              |
+| [Medium](https://medium.engineering/)                                          | Medium Engineering Blog.                                |
 | [Mixpanel](https://mixpanel.com/blog/)                                         | Mixpanel Blog.                                          |
 | [Monetate](http://engineering.monetate.com/)                                   | Monetate Engineering Blog.                              |
 | [Monsanto](http://engineering.monsanto.com/)                                   | Monsanto Engineering Blog.                              |
@@ -113,54 +113,54 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Pinterest](https://engineering.pinterest.com/)                                | Making Pinterest.                                       |
 | [Postmarkapp](https://postmarkapp.com/blog)                                    | Postmarkapp Blog.                                       |
 | [Practo](https://medium.com/practo-engineering)                                | Practo Engineering Blog.                                |
-| [Prezi](http://engineering.prezi.com/)                                         | Prezi Engineering.                                      |
-| [Quora](http://engineering.quora.com/)                                         | Engineering at Quora.                                   |
+| [Prezi](https://engineering.prezi.com/)                                        | Prezi Engineering.                                      |
+| [Quora](https://engineering.quora.com/)                                        | Engineering at Quora.                                   |
 | [Raintank](https://blog.raintank.io/)                                          | Raintank Blog.                                          |
 | [Algorithm & Blues](https://algorithms.rdio.com/)                              | Rdio Engineering blog.                                  |
 | [REA Group](http://techblog.realestate.com.au/engineering/)                    | REA Group Engineering Blog                              |
-| [Reddit](http://www.redditblog.com/)                                           | What's New on Reddit.                                   |
+| [Reddit](https://redditblog.com/)                                              | What's New on Reddit.                                   |
 | [Rightscale](http://eng.rightscale.com/)                                       | Rightscale Engineering Blog.                            |
-| [Riot Games Engineering](http://engineering.riotgames.com/)                    | Riot Games Engineering Blog.                            |
+| [Riot Games Engineering](https://engineering.riotgames.com/)                   | Riot Games Engineering Blog.                            |
 | [Salesforce](https://developer.salesforce.com/blogs/engineering/)              | Salesforce Engineering Blog.                            |
-| [Sensible](http://blog.sensible.io/)                                           | Sensible Blog.                                          |
+| [Sensible](https://blog.sensible.io/)                                          | Sensible Blog.                                          |
 | [Shopify](https://engineering.shopify.com)                                     | Shopify Engineering Blog.                               |
 | [Simulmedia](http://www.simulmedia.com/resources/blog/categories/engineering/) | Simulmedia Engineering.                                 |
 | [Slack](https://slack.engineering/)                                            | Slack Engineering Blog.                                 |
 | [SlideShare](http://engineering.slideshare.net/)                               | SlideShare Engineering Blog.                            |
 | [SmugMug](http://engineering.slideshare.com/)                                  | SmugMug's Don MacAskill.                                |
 | [Snapdeal](http://engineering.snapdeal.com/)                                   | Snapdeal Engineering Blog.                              |
-| [Songkick](http://devblog.songkick.com/)                                       | Songkick Technology Blog.                               |
+| [Songkick](https://devblog.songkick.com/)                                      | Songkick Technology Blog.                               |
 | [SoundCloud](https://developers.soundcloud.com/blog/)                          | SoundCloud Backstage.                                   |
 | [Spotify](https://labs.spotify.com/)                                           | Spotify's Engineering and Technology Blog.              |
 | [Square](https://corner.squareup.com/)                                         | The Corner, Square Engineering Blog.                    |
 | [Strava](http://labs.strava.com)                                               | Strava Labs.                                            |
 | [Stitch Fix](http://multithreaded.stitchfix.com/blog/)                         | Stitch Fix Engineering Blog.                            |
 | [StormPath](https://stormpath.com/blog/)                                       | StormPath Blog.                                         |
-| [Stripe](https://stripe.com/blog/engineering)                                  | Stripe Engineering Blog.                                    |
-| [Stylight](http://tech.stylight.com/)                                          | Stylight Tech Blog                                      |
+| [Stripe](https://stripe.com/blog/engineering)                                  | Stripe Engineering Blog.                                |
+| [Stylight](https://tech.stylight.com/)                                         | Stylight Tech Blog                                      |
 | [TellApart](https://www.tellapart.com/engineering-blog/)                       | TellApart Blog.                                         |
 | [ThoughtWorks](https://www.thoughtworks.com/insights)                          | ThoughtWorks Engineering Blog.                          |
 | [Tilt](http://engineering.tilt.com/)                                           | Tilt Engineering Blog.                                  |
-| [Toptal](http://www.toptal.com/blog)                                           | Toptal Blog.                                            |
-| [Tumblr](http://engineering.tumblr.com/)                                       | Tumblr Engineering.                                     |
+| [Toptal](https://www.toptal.com/blog)                                          | Toptal Blog.                                            |
+| [Tumblr](https://engineering.tumblr.com/)                                      | Tumblr Engineering.                                     |
 | [Twitter](https://blog.twitter.com/engineering)                                | Twitter Engineering.                                    |
 | [Twilio](https://www.twilio.com/engineering/)                                  | Twilio Engineering.                                     |
 | [Thumbtack](https://www.thumbtack.com/engineering/)                            | Thumbtack Engineering.                                  |
-| [Uber](http://eng.uber.com/)                                                   | Uber Engineering.                                       |
-| [Udacity](http://blog.udacity.com/)                                            | Udacity Blog.                                           |
+| [Uber](https://eng.uber.com/)                                                  | Uber Engineering.                                       |
+| [Udacity](https://blog.udacity.com/)                                           | Udacity Blog.                                           |
 | [Venmo](http://blog.venmo.com/?category=Engineering)                           | Venmo Blog.                                             |
-| [Wayfair](http://engineering.wayfair.com/)                                     | Wayfair Engineering.                                    |
-| [Wealthfront](http://eng.wealthfront.com/)                                     | Wealthfront Engineering.                                |
-| [WebEngage](http://engineering.webengage.com/)                                 | WebEngage Engineering Blog.                             |
+| [Wayfair](https://engineering.wayfair.com/)                                    | Wayfair Engineering.                                    |
+| [Wealthfront](https://eng.wealthfront.com/)                                    | Wealthfront Engineering.                                |
+| [WebEngage](https://engineering.webengage.com/)                                | WebEngage Engineering Blog.                             |
 | [Workshape](http://blog.workshape.io/)                                         | Workshape Blog.                                         |
-| [Yahoo!](http://yahooeng.tumblr.com/)                                          | Yahoo! Engineering Blog.                                |
+| [Yahoo!](https://yahooeng.tumblr.com/)                                         | Yahoo! Engineering Blog.                                |
 | [Yammer](https://medium.com/@YammerEng)                                        | Blog Yammer Engineering.                                |
-| [Yelp](http://engineeringblog.yelp.com/)                                       | Yelp Product and Engineering Blog.                      |
+| [Yelp](https://engineeringblog.yelp.com/)                                      | Yelp Product and Engineering Blog.                      |
 | [YouTube](https://youtube-eng.googleblog.com/)                                 | YouTube Engineering and Developers Blog.                |
 | [Zalando](https://tech.zalando.com/blog/)                                      | Zalando Tech Blog.                                      |
 | [Zapier](https://zapier.com/engineering/)                                      | Zapier Engineering Blog.                                |
 | [Zenefits](https://engineering.zenefits.com/posts/)                            | Zenefits Engineering Blog.                              |
 | [ZenPayroll](http://engineering.zenpayroll.com/)                               | ZenPayroll Engineering.                                 |
-| [Zillow](https://www.zillow.com/engineering/)                                      | Zillow Engineering Blog.                                |
+| [Zillow](https://www.zillow.com/engineering/)                                  | Zillow Engineering Blog.                                |
 | [Zomato](https://engineering.zomato.com/)                                      | Zomato Engineering Blog.                                |
-| [Zynga](https://www.zynga.com/blogs/engineering)                               | Zynga Engineering Blog.                                   |
+| [Zynga](https://www.zynga.com/blogs/engineering)                               | Zynga Engineering Blog.                                 |
