@@ -76,6 +76,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Grofers](https://lambda.grofers.com)                                          | Lambda-The Grofers Engineering Blog.                    |
 | [Grouper](http://eng.joingrouper.com/)                                         | Grouper Engineering Team Blog.                          |
 | [Groupon](https://engineering.groupon.com/)                                    | Groupon Engineering Blog.                               |
+| [Gusto](http://engineering.gusto.com)                                          | Gusto Engineering Blog.                               |
 | [Harry's](http://engineering.harrys.com/)                                      | Harry's Engineering.                                    |
 | [Heroku](https://engineering.heroku.com/)                                      | Heroku Engineering Blog.                                |
 | [HoneyBadger](https://blog.honeybadger.io)                                     | HoneyBadger Blog.                                       |
@@ -163,7 +164,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Zalando](https://tech.zalando.com/blog/)                                      | Zalando Tech Blog.                                      |
 | [Zapier](https://zapier.com/engineering/)                                      | Zapier Engineering Blog.                                |
 | [Zenefits](https://engineering.zenefits.com/posts/)                            | Zenefits Engineering Blog.                              |
-| [ZenPayroll](http://engineering.zenpayroll.com/)                               | ZenPayroll Engineering.                                 |
 | [Zillow](https://www.zillow.com/engineering/)                                  | Zillow Engineering Blog.                                |
 | [Zomato](https://engineering.zomato.com/)                                      | Zomato Engineering Blog.                                |
 | [Zynga](https://www.zynga.com/blogs/engineering)                               | Zynga Engineering Blog.                                 |
