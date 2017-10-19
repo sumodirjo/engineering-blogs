@@ -15,6 +15,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.
 | [Avant](http://avant.engineering/)                                             | Avant Engineering.                                      |
+| [Babbel](https://bytes.babbel.com/en/)                                         | Babbel Engineering. 
 | [Backtrace](https://backtrace.io/blog/)                                        | Backtrace Blog.                                         |
 | [BandCamp](https://bandcamptech.wordpress.com/)                                | Bandcamp Tech.                                          |
 | [BankSimple](https://www.simple.com/engineering)                               | Simple Blog.                                            |
