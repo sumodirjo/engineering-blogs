@@ -13,6 +13,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
+| [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.
 | [Avant](http://avant.engineering/)                                             | Avant Engineering.                                      |
 | [Backtrace](https://backtrace.io/blog/)                                        | Backtrace Blog.                                         |
 | [BandCamp](https://bandcamptech.wordpress.com/)                                | Bandcamp Tech.                                          |
