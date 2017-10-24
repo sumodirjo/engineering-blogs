@@ -109,6 +109,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Mixpanel](https://mixpanel.com/blog/)                                         | Mixpanel Blog.                                          |
 | [Monetate](http://engineering.monetate.com/)                                   | Monetate Engineering Blog.                              |
 | [Monsanto](http://engineering.monsanto.com/)                                   | Monsanto Engineering Blog.                              |
+| [Mozilla](https://blog.mozilla.org/)                                           | The Mozilla Blog.                                       |
 | [Myntra](https://medium.com/myntra-engineering)                                | Myntra Engineering Blog.                                |
 | [Netflix](http://techblog.netflix.com/)                                        | Netflix Tech Blog.                                      |
 | [Oyster](http://tech.oyster.com/)                                              | Insights from Oyster.com's Tech Team.                   |
