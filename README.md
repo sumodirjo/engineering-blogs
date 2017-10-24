@@ -41,11 +41,11 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Cloudera](https://blog.cloudera.com/)                                         | Cloudera Technical Blog.                                |
 | [Cloudflare](https://blog.cloudflare.com/)                                     | Cloudflare blog.                                        |
 | [Cloudscaling](https://cloudscaling.com/blog/)                                 | Cloudscaling Blog.                                      |
+| [Codeminer42](https://blog.codeminer42.com/)                                   | The Miners, Codeminer42 Engineering Blog.               |
 | [Compass](https://medium.com/compass-true-north/)                              | Compass Engineering Blog.                               |
 | [Contentful](https://www.contentful.com/blog/)                                 | Contentful Blog.                                        |
-| [cookpad](https://sourcediving.com/)                                           | cookpad Blog.                                           |
 | [Confluent](https://www.confluent.io/blog)                                     | Confluent Blog.                                         |
-| [Codeminer42](https://blog.codeminer42.com/)                                   | The Miners, Codeminer42 Engineering Blog.               |
+| [cookpad](https://sourcediving.com/)                                           | cookpad Blog.                                           |
 | [Coursera](https://blog.coursera.org/)                                         | Coursera Blog.                                          |
 | [ClusterHQ](https://clusterhq.com/blog/)                                       | ClusterHQ Blog.                                         |
 | [Crowdbooster](http://blog.crowdbooster.com/)                                  | Crowdbooster Blog.                                      |
@@ -109,6 +109,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Mixpanel](https://mixpanel.com/blog/)                                         | Mixpanel Blog.                                          |
 | [Monetate](http://engineering.monetate.com/)                                   | Monetate Engineering Blog.                              |
 | [Monsanto](http://engineering.monsanto.com/)                                   | Monsanto Engineering Blog.                              |
+| [Mozilla](https://blog.mozilla.org/)                                           | The Mozilla Blog.                                       |
 | [Myntra](https://medium.com/myntra-engineering)                                | Myntra Engineering Blog.                                |
 | [Netflix](http://techblog.netflix.com/)                                        | Netflix Tech Blog.                                      |
 | [Oyster](http://tech.oyster.com/)                                              | Insights from Oyster.com's Tech Team.                   |
