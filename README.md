@@ -41,11 +41,11 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Cloudera](https://blog.cloudera.com/)                                         | Cloudera Technical Blog.                                |
 | [Cloudflare](https://blog.cloudflare.com/)                                     | Cloudflare blog.                                        |
 | [Cloudscaling](https://cloudscaling.com/blog/)                                 | Cloudscaling Blog.                                      |
+| [Codeminer42](https://blog.codeminer42.com/)                                   | The Miners, Codeminer42 Engineering Blog.               |
 | [Compass](https://medium.com/compass-true-north/)                              | Compass Engineering Blog.                               |
 | [Contentful](https://www.contentful.com/blog/)                                 | Contentful Blog.                                        |
-| [cookpad](https://sourcediving.com/)                                           | cookpad Blog.                                           |
 | [Confluent](https://www.confluent.io/blog)                                     | Confluent Blog.                                         |
-| [Codeminer42](https://blog.codeminer42.com/)                                   | The Miners, Codeminer42 Engineering Blog.               |
+| [cookpad](https://sourcediving.com/)                                           | cookpad Blog.                                           |
 | [Coursera](https://blog.coursera.org/)                                         | Coursera Blog.                                          |
 | [ClusterHQ](https://clusterhq.com/blog/)                                       | ClusterHQ Blog.                                         |
 | [Crowdbooster](http://blog.crowdbooster.com/)                                  | Crowdbooster Blog.                                      |
