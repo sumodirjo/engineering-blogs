@@ -61,6 +61,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Quora](http://engineering.quora.com/) - Engineering at Quora.
 * [Reddit](http://blog.reddit.com/) - What's New on Reddit.
 * [Rightscale](http://eng.rightscale.com/) - Rightscale Engineering Blog.
+* [Riot Games](https://engineering.riotgames.com/) - Riot Games Engineering Blog.
 * [Salesforce](https://developer.salesforce.com/blogs/engineering/) - Salesforce Engineering Blog.
 * [Sensible](http://blog.sensible.io/) - Sensible Blog.
 * [Shopify](http://www.shopify.com/technology) - Shopify Engineering Blog.
