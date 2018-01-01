@@ -158,6 +158,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Uber](https://eng.uber.com/)                                                  | Uber Engineering.                                       |
 | [Udacity](https://blog.udacity.com/)                                           | Udacity Blog.                                           |
 | [Venmo](http://blog.venmo.com/?category=Engineering)                           | Venmo Blog.                                             |
+| [Walmart Labs](https://medium.com/walmartlabs)                                 | Walmart Labs Engineering Blog.                          |
 | [Wayfair](https://engineering.wayfair.com/)                                    | Wayfair Engineering.                                    |
 | [Wealthfront](https://eng.wealthfront.com/)                                    | Wealthfront Engineering.                                |
 | [WebEngage](https://engineering.webengage.com/)                                | WebEngage Engineering Blog.                             |
