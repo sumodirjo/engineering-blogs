@@ -106,6 +106,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Mandrill](http://blog.mandrill.com/)                                          | Mandrill Blog.                                          |
 | [Medallia](https://engineering.medallia.com/blog/)                             | Medallia Engineering Blog.                              |
 | [Medium](https://medium.engineering/)                                          | Medium Engineering Blog.                                |
+| [Mixmax](https://mixmax.com/eng/)                                              | Mixmax Engineering Blog.                                          |
 | [Mixpanel](https://mixpanel.com/blog/)                                         | Mixpanel Blog.                                          |
 | [Monetate](http://engineering.monetate.com/)                                   | Monetate Engineering Blog.                              |
 | [Monsanto](http://engineering.monsanto.com/)                                   | Monsanto Engineering Blog.                              |
