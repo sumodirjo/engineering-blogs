@@ -132,6 +132,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Reddit](https://redditblog.com/)                                              | What's New on Reddit.                                   |
 | [Rightscale](http://eng.rightscale.com/)                                       | Rightscale Engineering Blog.                            |
 | [Riot Games Engineering](https://engineering.riotgames.com/)                   | Riot Games Engineering Blog.                            |
+| [Robinhood](https://robinhood.engineering/)                                    | Robinhood Engineering Blog.                             |
 | [Salesforce](https://developer.salesforce.com/blogs/engineering/)              | Salesforce Engineering Blog.                            |
 | [Sensible](https://blog.sensible.io/)                                          | Sensible Blog.                                          |
 | [Shopify](https://engineering.shopify.com)                                     | Shopify Engineering Blog.                               |
@@ -157,6 +158,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Twitter](https://blog.twitter.com/engineering)                                | Twitter Engineering.                                    |
 | [Twilio](https://www.twilio.com/engineering/)                                  | Twilio Engineering.                                     |
 | [Thumbtack](https://www.thumbtack.com/engineering/)                            | Thumbtack Engineering.                                  |
+| [TwoSigma](https://www.twosigma.com/insights/category/technology)              | TwoSigma Technology Blog.                               | 
 | [Uber](https://eng.uber.com/)                                                  | Uber Engineering.                                       |
 | [Udacity](https://blog.udacity.com/)                                           | Udacity Blog.                                           |
 | [Venmo](http://blog.venmo.com/?category=Engineering)                           | Venmo Blog.                                             |
