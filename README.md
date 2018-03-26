@@ -150,6 +150,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [StormPath](https://stormpath.com/blog/)                                       | StormPath Blog.                                         |
 | [Stripe](https://stripe.com/blog/engineering)                                  | Stripe Engineering Blog.                                |
 | [Stylight](https://tech.stylight.com/)                                         | Stylight Tech Blog                                      |
+| [Swiggy](https://bytes.swiggy.com/)                                         | Swiggy Engineering                                          |
 | [TellApart](https://www.tellapart.com/engineering-blog/)                       | TellApart Blog.                                         |
 | [ThoughtWorks](https://www.thoughtworks.com/insights)                          | ThoughtWorks Engineering Blog.                          |
 | [Tilt](http://engineering.tilt.com/)                                           | Tilt Engineering Blog.                                  |
