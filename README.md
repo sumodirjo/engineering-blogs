@@ -68,7 +68,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [FiftyThree](http://making.fiftythree.com/)                                    | Making Fifty Three.                                     |
 | [Flickr](https://code.flickr.net/)                                             | Code.flickr.com.                                        |
 | [Flipboard](http://engineering.flipboard.com/)                                 | Flipboard Engineering.                                  |
-| [Flipkart](http://tech-blog.flipkart.net/)                                     | Flipkart Engineering.                                   |
+| [Flipkart](https://tech.flipkart.com/)                                    	 | Flipkart Engineering.                                   |
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
 | [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
 | [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
