@@ -152,8 +152,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Stylight](https://tech.stylight.com/)                                         | Stylight Tech Blog                                      |
 | [Swiggy](https://bytes.swiggy.com/)                                         | Swiggy Engineering                                          |
 | [TellApart](https://www.tellapart.com/engineering-blog/)                       | TellApart Blog.                                         |
-| [ThoughtWorks](https://www.thoughtworks.com/insights)                          | ThoughtWorks Engineering Blog.             
-
+| [ThoughtWorks](https://www.thoughtworks.com/insights)                          | ThoughtWorks Engineering Blog.                          |
 | [Toptal](https://www.toptal.com/blog)                                          | Toptal Blog.                                            |
 | [Tumblr](https://engineering.tumblr.com/)                                      | Tumblr Engineering.                                     |
 | [Twitter](https://blog.twitter.com/engineering)                                | Twitter Engineering.                                    |
