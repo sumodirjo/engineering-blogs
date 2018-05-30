@@ -95,6 +95,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Instagram](http://instagram-engineering.tumblr.com/)                          | Instagram Engineering.                                  |
 | [IntentHQ](http://engineering.intenthq.com/)                                   | IntentHQ Engineering.                                   |
 | [Intercom.io](https://blog.intercom.io)                                        | Intercom Blog.                                          |
+| [iyzico](https://iyzico.engineering/)                                        | iyzico Engineering Blog.                                          |
 | [Jampp](https://geeks.jampp.com/)                                              | Jampp's Engineering Blog.                               |
 | [Jelastic](https://blog.jelastic.com/)                                         | Jelastic Blog.                                          |
 | [Jolly Good Code](https://jollygoodcode.github.io/)                            | Jolly Good Code Blog.                                   |
