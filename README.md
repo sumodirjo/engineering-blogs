@@ -9,7 +9,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                  |
 | [Advanced Web Machinery](https://advancedweb.hu/)                              | Advanced web Machinery Blog.                        |
 | [AdRoll](http://tech.adroll.com/blog/)                                         | AdRoll Engineering Blog.                            |
-| [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
+| [AirBnB](http://nerds.airbnb.com/) ([top 10](https://www.massivetimesaver.com/find?domain=medium.com/airbnb-engineering)) | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
@@ -54,7 +54,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Dataiku](https://www.dataiku.com/blog/)                                       | Dataiku Blog.                                           |
 | [DCHQ.io](http://dchq.co/blog.html)                                            | DCHQ Blog.                                              |
 | [Making Dia](https://making.dia.com/)                                          | Dia&Co. Engineering Blog.                               |
-| [Docker Blog](https://blog.docker.com/)                                        | Docker Blog.                                            |
+| [Docker Blog](https://blog.docker.com/) ([top 10](https://www.massivetimesaver.com/find?domain=blog.docker.com)) | Docker Blog.                                            |
 | [Dropbox](https://blogs.dropbox.com/tech/)                                     | Dropbox Tech Blog.                                      |
 | [ebay](http://www.ebaytechblog.com)                                            | eBay Tech Blog.                                         |
 | [Elastic](https://www.elastic.co/blog)                                         | Elastic Blog.                                           |
@@ -71,7 +71,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Flipkart](https://tech.flipkart.com/)                                    	 | Flipkart Engineering.                                   |
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
 | [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
-| [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
+| [GitHub](https://githubengineering.com/) ([top 10](https://www.massivetimesaver.com/find?domain=githubengineering.com)) | The GitHub Blog: Engineering.                           |
 | [Gnip](https://engineering.gnip.com/)                                          | Gnip Engineering.                                       |
 | [Google Developers](https://developers.googleblog.com/)                        | Google Developers Blog.                                 |
 | [GoSquared](https://engineering.gosquared.com/)                                | GoSquared Engineering Blog.                             |
@@ -92,9 +92,9 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Influxdata](https://influxdata.com/blog/)                                     | Influxdata Blog.                                        |
 | [Informed K12](https://tostring.informedk12.com/)                              | Informed K12 Engineering Blog.                          |
 | [Instacart](https://tech.instacart.com/)                                       | Instacart Tech Blog.                                    |
-| [Instagram](http://instagram-engineering.tumblr.com/)                          | Instagram Engineering.                                  |
+| [Instagram](http://instagram-engineering.tumblr.com/) ([top 10](https://www.massivetimesaver.com/find?domain=instagram-engineering.com))| Instagram Engineering.                                  |
 | [IntentHQ](http://engineering.intenthq.com/)                                   | IntentHQ Engineering.                                   |
-| [Intercom.io](https://blog.intercom.io)                                        | Intercom Blog.                                          |
+| [Intercom.io](https://blog.intercom.io) ([top 10](https://www.massivetimesaver.com/find?domain=engineering.intercom.com)) | Intercom Blog.                                          |
 | [iyzico](https://iyzico.engineering/)                                        | iyzico Engineering Blog.                                          |
 | [Jampp](https://geeks.jampp.com/)                                              | Jampp's Engineering Blog.                               |
 | [Jelastic](https://blog.jelastic.com/)                                         | Jelastic Blog.                                          |
@@ -160,7 +160,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Twilio](https://www.twilio.com/engineering/)                                  | Twilio Engineering.                                     |
 | [Thumbtack](https://www.thumbtack.com/engineering/)                            | Thumbtack Engineering.                                  |
 | [TwoSigma](https://www.twosigma.com/insights/category/technology)              | TwoSigma Technology Blog.                               | 
-| [Uber](https://eng.uber.com/)                                                  | Uber Engineering.                                       |
+| [Uber](https://eng.uber.com/) ([top 10](https://www.massivetimesaver.com/find?domain=eng.uber.com)) | Uber Engineering.                                       |
 | [Udacity](https://blog.udacity.com/)                                           | Udacity Blog.                                           |
 | [Venmo](http://blog.venmo.com/?category=Engineering)                           | Venmo Blog.                                             |
 | [Walmart Labs](https://medium.com/walmartlabs)                                 | Walmart Labs Engineering Blog.                          |
