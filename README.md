@@ -92,9 +92,9 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Influxdata](https://influxdata.com/blog/)                                     | Influxdata Blog.                                        |
 | [Informed K12](https://tostring.informedk12.com/)                              | Informed K12 Engineering Blog.                          |
 | [Instacart](https://tech.instacart.com/)                                       | Instacart Tech Blog.                                    |
-| [Instagram](http://instagram-engineering.tumblr.com/) ([top 10](https://www.massivetimesaver.com/find?domain=instagram-engineering.com))| Instagram Engineering.                                  |
+| [Instagram](http://instagram-engineering.tumblr.com/)                          | Instagram Engineering.                                  |
 | [IntentHQ](http://engineering.intenthq.com/)                                   | IntentHQ Engineering.                                   |
-| [Intercom.io](https://blog.intercom.io) ([top 10](https://www.massivetimesaver.com/find?domain=engineering.intercom.com)) | Intercom Blog.                                          |
+| [Intercom.io](https://blog.intercom.io) ([top 10](https://www.massivetimesaver.com/find?domain=blog.intercom.com)) | Intercom Blog.                                          |
 | [iyzico](https://iyzico.engineering/)                                        | iyzico Engineering Blog.                                          |
 | [Jampp](https://geeks.jampp.com/)                                              | Jampp's Engineering Blog.                               |
 | [Jelastic](https://blog.jelastic.com/)                                         | Jelastic Blog.                                          |
