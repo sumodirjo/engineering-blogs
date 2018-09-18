@@ -99,7 +99,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [iyzico](https://iyzico.engineering/)                                        | iyzico Engineering Blog.                                          |
 | [Jampp](https://geeks.jampp.com/)                                              | Jampp's Engineering Blog.                               |
 | [Jelastic](https://blog.jelastic.com/)                                         | Jelastic Blog.                                          |
-| [Jimdo](http://dev.jimdo.com/)                                                 | Jimdo Dev Blog.                                         |
+| [Jimdo](https://dev.jimdo.com/)                                                 | Jimdo Dev Blog.                                         |
 | [Jolly Good Code](https://jollygoodcode.github.io/)                            | Jolly Good Code Blog.                                   |
 | [Kaggle](http://blog.kaggle.com/)                                              | Kaggle Blog.                                            |
 | [Khan Academy Engineering Blog](http://engineering.khanacademy.org/)           | Khan Academy Engineering Blog.                          |
