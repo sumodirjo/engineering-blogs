@@ -137,7 +137,8 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Robinhood](https://robinhood.engineering/)                                    | Robinhood Engineering Blog.                             |
 | [Salesforce](https://developer.salesforce.com/blogs/engineering/)              | Salesforce Engineering Blog.                            |
 | [Sensible](https://blog.sensible.io/)                                          | Sensible Blog.                                          |
-| [Shopify](https://engineering.shopify.com)                                     | Shopify Engineering Blog.                               |
+| [Shopify](https://engineering.shopify.com)                                     | Shopify Engineering Blog.                  |
+| [Showmax](https://tech.showmax.com)                                            | Showmax Engineering Blog.                          |
 | [Simulmedia](http://www.simulmedia.com/resources/blog/categories/engineering/) | Simulmedia Engineering.                                 |
 | [Slack](https://slack.engineering/)                                            | Slack Engineering Blog.                                 |
 | [SlideShare](http://engineering.slideshare.net/)                               | SlideShare Engineering Blog.                            |
