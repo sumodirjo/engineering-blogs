@@ -11,6 +11,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [AdRoll](http://tech.adroll.com/blog/)                                         | AdRoll Engineering Blog.                                |
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |
+| [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                            |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
