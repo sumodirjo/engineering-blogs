@@ -9,6 +9,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                  |
 | [Advanced Web Machinery](https://advancedweb.hu/)                              | Advanced web Machinery Blog.                            |
 | [AdRoll](http://tech.adroll.com/blog/)                                         | AdRoll Engineering Blog.                                |
+| [Affinity](https://build.affinity.co/)                                         | Affinity Engineering Blog.                              |
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
