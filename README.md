@@ -12,6 +12,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Affinity](https://build.affinity.co/)                                         | Affinity Engineering Blog.                              |
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |
+| [Algolia](https://blog.algolia.com/)                                           | Algolia Blog.                                            |
 | [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                            |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
