@@ -17,7 +17,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.
 | [Avant](http://avant.engineering/)                                             | Avant Engineering.                                      |
-| [Babbel](https://bytes.babbel.com/en/)                                         | Babbel Engineering. 
+| [Babbel](https://bytes.babbel.com/en/)                                         | Babbel Engineering.
 | [Backtrace](https://backtrace.io/blog/)                                        | Backtrace Blog.                                         |
 | [BandCamp](https://bandcamptech.wordpress.com/)                                | Bandcamp Tech.                                          |
 | [BankSimple](https://www.simple.com/engineering)                               | Simple Blog.                                            |
@@ -26,6 +26,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Bitly](http://word.bitly.com/)                                                | Bitly Engineering.                                      |
 | [BitTorrent](http://engineering.bittorrent.com/)                               | BitTorrent Engineering Blog.                            |
 | [Blablacar](http://blablatech.com/)                                            | Blablacar Engineering Blog.                             |
+| [Blacklane](https://medium.com/blacklane-engineering)                          | Blacklane Engineering Blog.                             |
 | [BlackRock Engineering](http://rockthecode.io/)                                | BlackRock Engineering Blog.                             |
 | [Blendle](https://blendle.engineering/)                                        | Blendle Engineering Blog.                               |
 | [Branch](https://blog.branch.io/)                                              | Branch Blog.                                            |
