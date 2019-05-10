@@ -141,6 +141,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Algorithm & Blues](https://algorithms.rdio.com/)                              | Rdio Engineering blog.                                  |
 | [REA Group](http://techblog.realestate.com.au/engineering/)                    | REA Group Engineering Blog                              |
 | [Reddit](https://redditblog.com/)                                              | What's New on Reddit.                                   |
+| [Red Hat](https://developers.redhat.com/)                                      | Red Hat Developers Blog.                                 |
 | [Rightscale](http://eng.rightscale.com/)                                       | Rightscale Engineering Blog.                            |
 | [Riot Games Engineering](https://engineering.riotgames.com/)                   | Riot Games Engineering Blog.                            |
 | [Robinhood](https://robinhood.engineering/)                                    | Robinhood Engineering Blog.                             |
