@@ -158,7 +158,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Songkick](https://devblog.songkick.com/)                                      | Songkick Technology Blog.                               |
 | [SoundCloud](https://developers.soundcloud.com/blog/)                          | SoundCloud Backstage.                                   |
 | [Spotify](https://labs.spotify.com/)                                           | Spotify's Engineering and Technology Blog.              |
-| [Square](https://corner.squareup.com/)                                         | The Corner, Square Engineering Blog.                    |
+| [Square](https://developer.squareup.com/blog/)                                 | The Corner, Square Engineering Blog.                    |
 | [Strava](http://labs.strava.com)                                               | Strava Labs.                                            |
 | [Stitch Fix](http://multithreaded.stitchfix.com/blog/)                         | Stitch Fix Engineering Blog.                            |
 | [StormPath](https://stormpath.com/blog/)                                       | StormPath Blog.                                         |
