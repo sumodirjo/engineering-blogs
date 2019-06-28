@@ -43,6 +43,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Captricity](https://captricity.com/blog/)                                     | Captricity Blog.                                        |
 | [Carbon Five](http://blog.carbonfive.com/)                                     | Carbon Five Blog.                                       |
 | [Cerner](http://engineering.cerner.com/)                                       | Engineering Health, A Cerner Blog.                      |
+| [C.H. Robinson](http://engineering.chrobinson.com/)                            | C.H. Robinson Engineering Blog, 3PL                      |
 | [Chartbeat](http://engineering.chartbeat.com/)                                 | Chartbeat Engineering Blog.                             |
 | [Cleartrip](https://medium.com/cleartrip)                                      | Cleartrip Blog.                                         |
 | [Close.io](https://hack.close.io/)                                             | Close.io Engineering blog.                              |
