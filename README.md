@@ -34,7 +34,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Blablacar](http://blablatech.com/)                                            | Blablacar Engineering Blog.                             |
 | [Blacklane](https://medium.com/blacklane-engineering)                          | Blacklane Engineering Blog.                             |
 | [BlackRock Engineering](http://rockthecode.io/)                                | BlackRock Engineering Blog.                             |
-| [Blendle](https://blendle.engineering/)                                        | Blendle Engineering Blog.                               | 
+| [Blendle](https://blendle.engineering/)                                        | Blendle Engineering Blog.                               |
 | [Bloomberg](https://www.techatbloomberg.com/blog/#2)                           | Tech At Bloomberg.                                      |
 | [Branch](https://blog.branch.io/)                                              | Branch Blog.                                            |
 | [Booking](https://blog.booking.com/)                                           | Booking.com Blog.                                       |
@@ -65,6 +65,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Making Dia](https://making.dia.com/)                                          | Dia&Co. Engineering Blog.                               |
 | [Docker Blog](https://blog.docker.com/)                                        | Docker Blog.                                            |
 | [Docker Engineering Blog](https://engineering.docker.com/)                     | Docker Engineering Blog.                                |
+| [Doximity](https://engineering.doximity.com)                                   | Doximity Engineering Blog.                              |
 | [Dropbox](https://blogs.dropbox.com/tech/)                                     | Dropbox Tech Blog.                                      |
 | [ebay](http://www.ebaytechblog.com)                                            | eBay Tech Blog.                                         |
 | [Elastic](https://www.elastic.co/blog)                                         | Elastic Blog.                                           |
@@ -172,7 +173,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Twitter](https://blog.twitter.com/engineering)                                | Twitter Engineering.                                    |
 | [Twilio](https://www.twilio.com/engineering/)                                  | Twilio Engineering.                                     |
 | [Thumbtack](https://www.thumbtack.com/engineering/)                            | Thumbtack Engineering.                                  |
-| [TwoSigma](https://www.twosigma.com/insights/category/technology)              | TwoSigma Technology Blog.                               | 
+| [TwoSigma](https://www.twosigma.com/insights/category/technology)              | TwoSigma Technology Blog.                               |
 | [Uber](https://eng.uber.com/)                                                  | Uber Engineering.                                       |
 | [Udacity](https://blog.udacity.com/)                                           | Udacity Blog.                                           |
 | [Venmo](http://blog.venmo.com/?category=Engineering)                           | Venmo Blog.                                             |
