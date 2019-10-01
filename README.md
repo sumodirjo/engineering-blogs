@@ -6,7 +6,8 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [500px](https://developers.500px.com/)                                         | 500px Engineering Blog.                                 |                                         
 | [8thLight](https://8thlight.com/blog/)                                         | 8th Light Engineering Blog.                             |
 | [99Designs](https://99designs.com/tech-blog/)                                  | 99Designs Tech Blog.                                    |
-| [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                  |
+| [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                 |
+| [Addepar](https://medium.com/build-addepar)                                    | Addepar Engineering Blog.                                 |
 | [Advanced Web Machinery](https://advancedweb.hu/)                              | Advanced web Machinery Blog.                            |
 | [AdRoll](http://tech.adroll.com/blog/)                                         | AdRoll Engineering Blog.                                |
 | [Affinity](https://build.affinity.co/)                                         | Affinity Engineering Blog.                              |
