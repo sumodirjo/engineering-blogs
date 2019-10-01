@@ -15,6 +15,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |
 | [Algolia](https://blog.algolia.com/)                                           | Algolia Blog.                                            |
 | [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                            |
+| [Airtame](https://airtame.engineering/)                                        | Airtame Blog.                                            |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
