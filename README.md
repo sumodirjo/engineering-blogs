@@ -1,34 +1,32 @@
 # Engineering Blogs
 A curated list of engineering blogs of startup and enterprise companies.
 
-[FullJoin.io](https://fulljoin.io) Search engine for company engineering blogs.
-
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [500px](https://developers.500px.com/)                                         | 500px Engineering Blog.                                 |                                         
 | [8thLight](https://8thlight.com/blog/)                                         | 8th Light Engineering Blog.                             |
 | [99Designs](https://99designs.com/tech-blog/)                                  | 99Designs Tech Blog.                                    |
-| [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                 |
-| [Addepar](https://medium.com/build-addepar)                                    | Addepar Engineering Blog.                                 |
+| [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                  |
+| [Addepar](https://medium.com/build-addepar)                                    | Addepar Engineering Blog.                               |
 | [Advanced Web Machinery](https://advancedweb.hu/)                              | Advanced web Machinery Blog.                            |
 | [AdRoll](http://tech.adroll.com/blog/)                                         | AdRoll Engineering Blog.                                |
 | [Affinity](https://build.affinity.co/)                                         | Affinity Engineering Blog.                              |
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |                                         |
-| [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                            |
-| [Airtame](https://airtame.engineering/)                                        | Airtame Blog.                                            |
+| [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                           |
+| [Airtame](https://airtame.engineering/)                                        | Airtame Blog.                                           |
 | [Algolia](https://blog.algolia.com/)                                           | Algolia Blog.                                           |
-| [Allegro](https://allegro.tech/)                                               | Allegro.tech Blog.                                           |
+| [Allegro](https://allegro.tech/)                                               | Allegro.tech Blog.                                      |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
 | [ASOS](https://medium.com/asos-techblog)                                       | ASOS Tech Blog.                                         |
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.                              |
-| [AuthO](https://auth0.com/blog/)                                               | AuthO Engineering Blog.                              |
+| [AuthO](https://auth0.com/blog/)                                               | AuthO Engineering Blog.                                 |
 | [Avant](http://avant.engineering/)                                             | Avant Engineering.                                      |
-| [Babbel](https://bytes.babbel.com/en/)                                         | Babbel Engineering.                                      |
-| [Backtrace](https://backtrace.io/blog/)                                        | Backtrace Blog.                                          |
+| [Babbel](https://bytes.babbel.com/en/)                                         | Babbel Engineering.                                     |
+| [Backtrace](https://backtrace.io/blog/)                                        | Backtrace Blog.                                         |
 | [Baidu Research](http://research.baidu.com/Blog)                               | Baidu Research Blog.                                    |
 | [BandCamp](https://bandcamptech.wordpress.com/)                                | Bandcamp Tech.                                          |
 | [BankSimple](https://www.simple.com/engineering)                               | Simple Blog.                                            |
@@ -49,7 +47,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Captricity](https://captricity.com/blog/)                                     | Captricity Blog.                                        |
 | [Carbon Five](http://blog.carbonfive.com/)                                     | Carbon Five Blog.                                       |
 | [Cerner](http://engineering.cerner.com/)                                       | Engineering Health, A Cerner Blog.                      |
-| [C.H. Robinson](http://engineering.chrobinson.com/)                            | C.H. Robinson Engineering Blog, 3PL                      |
+| [C.H. Robinson](http://engineering.chrobinson.com/)                            | C.H. Robinson Engineering Blog, 3PL                     |
 | [Chartbeat](http://engineering.chartbeat.com/)                                 | Chartbeat Engineering Blog.                             |
 | [Cleartrip](https://medium.com/cleartrip)                                      | Cleartrip Blog.                                         |
 | [Close.io](https://hack.close.io/)                                             | Close.io Engineering blog.                              |
@@ -199,3 +197,10 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Zillow](https://www.zillow.com/engineering/)                                  | Zillow Engineering Blog.                                |
 | [Zomato](https://engineering.zomato.com/)                                      | Zomato Engineering Blog.                                |
 | [Zynga](https://www.zynga.com/blogs/engineering)                               | Zynga Engineering Blog.                                 |
+
+# Engineering Blogs Tools
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [FullJoin.io](https://fulljoin.io)                                             | Search engine for company engineering blogs.            |
+
