@@ -89,6 +89,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
 | [Gnip](https://engineering.gnip.com/)                                          | Gnip Engineering.                                       |
 | [Google Developers](https://developers.googleblog.com/)                        | Google Developers Blog.                                 |
+| [Google AI Blog](https://ai.googleblog.com/)                                   | Google AI Blog.                                         |
 | [GoSquared](https://engineering.gosquared.com/)                                | GoSquared Engineering Blog.                             |
 | [Grab](http://engineering.grab.com/)                                           | Grab Tech Blog.                                         |
 | [Grofers](https://lambda.grofers.com)                                          | Lambda-The Grofers Engineering Blog.                    |
