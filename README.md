@@ -97,6 +97,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Groupon](https://engineering.groupon.com/)                                    | Groupon Engineering Blog.                               |
 | [Gusto](http://engineering.gusto.com)                                          | Gusto Engineering Blog.                                 |
 | [Harry's](http://engineering.harrys.com/)                                      | Harry's Engineering.                                    |
+| [Helpshift](https://medium.com/helpshift-engineering/)                         | Helpshift Engineering Blog.                             |
 | [Heroku](https://engineering.heroku.com/)                                      | Heroku Engineering Blog.                                |
 | [HoneyBadger](https://blog.honeybadger.io)                                     | HoneyBadger Blog.                                       |
 | [Housing](https://medium.com/engineering-housing)                              | Housing Engineering Blog.                               |
