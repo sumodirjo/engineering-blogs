@@ -96,6 +96,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Grouper](http://eng.joingrouper.com/)                                         | Grouper Engineering Team Blog.                          |
 | [Groupon](https://engineering.groupon.com/)                                    | Groupon Engineering Blog.                               |
 | [Gusto](http://engineering.gusto.com)                                          | Gusto Engineering Blog.                                 |
+| [Globo.com](https://blog.globo.com/)                                           | Globo.com Engineering Blog.                                 |
 | [Harry's](http://engineering.harrys.com/)                                      | Harry's Engineering.                                    |
 | [Heroku](https://engineering.heroku.com/)                                      | Heroku Engineering Blog.                                |
 | [HoneyBadger](https://blog.honeybadger.io)                                     | HoneyBadger Blog.                                       |
