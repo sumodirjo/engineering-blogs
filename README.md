@@ -200,10 +200,3 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Zillow](https://www.zillow.com/engineering/)                                  | Zillow Engineering Blog.                                |
 | [Zomato](https://engineering.zomato.com/)                                      | Zomato Engineering Blog.                                |
 | [Zynga](https://www.zynga.com/blogs/engineering)                               | Zynga Engineering Blog.                                 |
-
-# Engineering Blogs Tools
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [FullJoin.io](https://fulljoin.io)                                             | Search engine for company engineering blogs.            |
-
