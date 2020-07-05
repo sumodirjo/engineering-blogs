@@ -205,5 +205,5 @@ A curated list of engineering blogs of startup and enterprise companies.
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [FullJoin.io](https://fulljoin.io)                                             | Search engine for company engineering blogs.            |
+| [diff.blog](https://diff.blog)                                                 | Easy way to follow Engineering and Developer blogs      |
 
