@@ -197,6 +197,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Zalando](https://tech.zalando.com/blog/)                                      | Zalando Tech Blog.                                      |
 | [Zapier](https://zapier.com/engineering/)                                      | Zapier Engineering Blog.                                |
 | [Zenefits](https://engineering.zenefits.com/posts/)                            | Zenefits Engineering Blog.                              |
+| [Zerodha](https://zerodha.tech/blog/)                                          | Zerodha Tech Blog.                                      |
 | [Zillow](https://www.zillow.com/engineering/)                                  | Zillow Engineering Blog.                                |
 | [Zomato](https://engineering.zomato.com/)                                      | Zomato Engineering Blog.                                |
 | [Zynga](https://www.zynga.com/blogs/engineering)                               | Zynga Engineering Blog.                                 |
