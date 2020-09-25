@@ -86,6 +86,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Flipkart](https://tech.flipkart.com/)                                    	 | Flipkart Engineering.                                   |
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
 | [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
+| [Freshworks Inc.](https://medium.com/freshworks-engineering-blog)              | Freshworks Engineering Blog                             |
 | [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
 | [Gnip](https://engineering.gnip.com/)                                          | Gnip Engineering.                                       |
 | [Google Developers](https://developers.googleblog.com/)                        | Google Developers Blog.                                 |
