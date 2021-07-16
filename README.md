@@ -157,7 +157,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Rightscale](http://eng.rightscale.com/)                                       | Rightscale Engineering Blog.                            |
 | [Riot Games Engineering](https://engineering.riotgames.com/)                   | Riot Games Engineering Blog.                            |
 | [Robinhood](https://robinhood.engineering/)                                    | Robinhood Engineering Blog.                             |
-| [Salesforce](https://developer.salesforce.com/blogs/engineering/)              | Salesforce Engineering Blog.                            |
+| [Salesforce](https://engineering.salesforce.com/)                              | Salesforce Engineering Blog.                            |
 | [Sensible](https://blog.sensible.io/)                                          | Sensible Blog.                                          |
 | [Shopify](https://engineering.shopify.com)                                     | Shopify Engineering Blog.                               |
 | [Showmax](https://tech.showmax.com)                                            | Showmax Engineering Blog.                               |
