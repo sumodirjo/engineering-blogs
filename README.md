@@ -152,6 +152,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Prezi](https://engineering.prezi.com/)                                        | Prezi Engineering.                                      |
 | [Quora](https://engineering.quora.com/)                                        | Engineering at Quora.                                   |
 | [Raintank](https://blog.raintank.io/)                                          | Raintank Blog.                                          |
+| [Ramp](https://engineering.ramp.com/)                                          | Ramp Engineering Blog.                                  |
 | [Algorithm & Blues](https://algorithms.rdio.com/)                              | Rdio Engineering blog.                                  |
 | [REA Group](http://techblog.realestate.com.au/engineering/)                    | REA Group Engineering Blog                              |
 | [Reddit](https://redditblog.com/)                                              | What's New on Reddit.                                   |
