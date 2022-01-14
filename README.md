@@ -89,7 +89,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Freshworks Inc.](https://medium.com/freshworks-engineering-blog)              | The Freshworks Engineering Blog – Medium                |
 | [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
 | [Gnip](https://engineering.gnip.com/)                                          | Gnip Engineering.                                       |
-| [Gojek](https://www.gojek.io/)                                                 | Gojek Engineering.                                      |
+| [Gojek](https://www.gojek.io/blog/tag/tech)                                    | Gojek Engineering.                                      |
 | [Google Developers](https://developers.googleblog.com/)                        | Google Developers Blog.                                 |
 | [Google AI Blog](https://ai.googleblog.com/)                                   | Google AI Blog.                                         |
 | [GoSquared](https://engineering.gosquared.com/)                                | GoSquared Engineering Blog.                             |
