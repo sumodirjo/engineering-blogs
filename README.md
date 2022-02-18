@@ -63,6 +63,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [ClusterHQ](https://clusterhq.com/blog/)                                       | ClusterHQ Blog.                                         |
 | [Crowdbooster](http://blog.crowdbooster.com/)                                  | Crowdbooster Blog.                                      |
 | [Dailymotion](http://engineering.dailymotion.com/)                             | Dailymotion Engineering Blog.                           |
+| [Datadog](https://www.datadoghq.com/blog/engineering/)                         | Datadog Engineering Blog                                |
 | [Datafloq](https://datafloq.com/read/)                                         | Datafloq Blog.                                          |
 | [Dataiku](https://www.dataiku.com/blog/)                                       | Dataiku Blog.                                           |
 | [DCHQ.io](http://dchq.co/blog.html)                                            | DCHQ Blog.                                              |
