@@ -172,6 +172,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Slack](https://slack.engineering/)                                            | Slack Engineering Blog.                                 |
 | [SlideShare](http://engineering.slideshare.net/)                               | SlideShare Engineering Blog.                            |
 | [SmugMug](http://engineering.slideshare.com/)                                  | SmugMug's Don MacAskill.                                |
+| [Snap](https://eng.snap.com/blog/)                                             | Snap's (Snapchat) Engineering Blog                      |
 | [Snapdeal](http://engineering.snapdeal.com/)                                   | Snapdeal Engineering Blog.                              |
 | [Songkick](https://devblog.songkick.com/)                                      | Songkick Technology Blog.                               |
 | [SoundCloud](https://developers.soundcloud.com/blog/)                          | SoundCloud Backstage.                                   |
