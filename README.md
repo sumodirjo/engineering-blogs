@@ -11,6 +11,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Advanced Web Machinery](https://advancedweb.hu/)                              | Advanced web Machinery Blog.                            |
 | [AdRoll](http://tech.adroll.com/blog/)                                         | AdRoll Engineering Blog.                                |
 | [Affinity](https://build.affinity.co/)                                         | Affinity Engineering Blog.                              |
+| [Affirm](https://tech.affirm.com/)                                             | Affirm Engineering Blog.                                |
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
 | [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |                                         |
 | [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                           |
