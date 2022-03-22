@@ -40,6 +40,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Blablacar](http://blablatech.com/)                                            | Blablacar Engineering Blog.                             |
 | [Blacklane](https://medium.com/blacklane-engineering)                          | Blacklane Engineering Blog.                             |
 | [BlackRock Engineering](http://rockthecode.io/)                                | BlackRock Engineering Blog.                             |
+| [Blend](https://blend.com/blog/engineering/)                                   | Blend Engineering Blog.                                 |
 | [Blendle](https://blendle.engineering/)                                        | Blendle Engineering Blog.                               |
 | [Bloomberg](https://www.techatbloomberg.com/blog/#2)                           | Tech At Bloomberg.                                      |
 | [Branch](https://blog.branch.io/)                                              | Branch Blog.                                            |
@@ -142,10 +143,12 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Mixpanel](https://mixpanel.com/blog/)                                         | Mixpanel Blog.                                          |
 | [MojoAuth](https://mojoauth.com/blog/)                                         | MojoAuth Blog.                                          |
 | [Monetate](http://engineering.monetate.com/)                                   | Monetate Engineering Blog.                              |
+| [Mongodb](https://engineering.mongodb.com/)                                    | Mongodb Engineering Blog.                               |
 | [Monsanto](http://engineering.monsanto.com/)                                   | Monsanto Engineering Blog.                              |
 | [Mozilla](https://blog.mozilla.org/)                                           | The Mozilla Blog.                                       |
 | [Myntra](https://medium.com/myntra-engineering)                                | Myntra Engineering Blog.                                |
 | [Netflix](http://techblog.netflix.com/)                                        | Netflix Tech Blog.                                      |
+| [Notion](https://www.notion.so/blog/topic/tech)                                | Notion Tech Blog.                                       |
 | [Oyster](http://tech.oyster.com/)                                              | Insights from Oyster.com's Tech Team.                   |
 | [Pagerduty](https://www.pagerduty.com/blog/)                                   | Pagerduty Blog.                                         |
 | [Pagico](https://www.pagico.com/blog/)                                         | Pagico Blog.                                            |
