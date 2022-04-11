@@ -93,7 +93,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
 | [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
 | [Freshworks Inc.](https://medium.com/freshworks-engineering-blog)              | The Freshworks Engineering Blog – Medium                |
-| [GitHub](https://githubengineering.com/)                                       | The GitHub Blog: Engineering.                           |
+| [GitHub](https://github.blog/category/engineering/)                            | The GitHub Blog: Engineering.                           |
 | [Gnip](https://engineering.gnip.com/)                                          | Gnip Engineering.                                       |
 | [Gojek](https://www.gojek.io/blog/tag/tech)                                    | Gojek Engineering.                                      |
 | [Google Developers](https://developers.googleblog.com/)                        | Google Developers Blog.                                 |
