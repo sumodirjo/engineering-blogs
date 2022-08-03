@@ -136,6 +136,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Lyft](https://eng.lyft.com/)                                                  | Lyft Engineering Blog.                                  |
 | [Machinalis](https://www.machinalis.com/blog/)                                 | Machinalis Blog.                                        |
 | [Mandrill](http://blog.mandrill.com/)                                          | Mandrill Blog.                                          |
+| [Marks & Spencher](https://engineering.marksandspencer.com/)                   | Marks & Spencher Engineering Blog.                      |
 | [Medallia](https://engineering.medallia.com/blog/)                             | Medallia Engineering Blog.                              |
 | [Medium](https://medium.engineering/)                                          | Medium Engineering Blog.                                |
 | [Mercari](https://engineering.mercari.com/en/blog/)                            | Mercari Engineering Blog.                               |
