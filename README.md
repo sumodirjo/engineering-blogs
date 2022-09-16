@@ -22,6 +22,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Anvil](https://www.useanvil.com/blog/engineering/)                            | Anvil Engineering Blog.                                 |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
+| [Ascenda Loyalty](https://loyalty.dev/)					 | Ascenda Loyalty Engineering Blog.			   |
 | [ASOS](https://medium.com/asos-techblog)                                       | ASOS Tech Blog.                                         |
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.                              |
