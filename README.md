@@ -38,6 +38,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Better](https://better.engineering/)                                          | Better Engineering Blog.                                |
 | [BetterWorks](https://engineering.betterworks.com/)                            | Betterworks Blog.                                       |
 | [Bitly](http://word.bitly.com/)                                                | Bitly Engineering.                                      |
+| [bitExpert](https://blog.bitexpert.de/)                                        | bitExpert Engineering Blog.                             |
 | [BitTorrent](http://engineering.bittorrent.com/)                               | BitTorrent Engineering Blog.                            |
 | [Blablacar](http://blablatech.com/)                                            | Blablacar Engineering Blog.                             |
 | [Blacklane](https://medium.com/blacklane-engineering)                          | Blacklane Engineering Blog.                             |
