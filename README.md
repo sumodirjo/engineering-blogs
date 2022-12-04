@@ -209,6 +209,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Wayfair](https://engineering.wayfair.com/)                                    | Wayfair Engineering.                                    |
 | [Wealthfront](https://eng.wealthfront.com/)                                    | Wealthfront Engineering.                                |
 | [WebEngage](https://engineering.webengage.com/)                                | WebEngage Engineering Blog.                             |
+| [Whatnot](https://medium.com/whatnot-engineering)                              | Whatnot Engineering Blog.                               |
 | [Wix](https://www.wix.engineering/blog)                                        | Wix Engineering Blog.                                   |
 | [Workshape](http://blog.workshape.io/)                                         | Workshape Blog.                                         |
 | [Yahoo!](https://yahooeng.tumblr.com/)                                         | Yahoo! Engineering Blog.                                |
