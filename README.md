@@ -194,7 +194,8 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Stripe](https://stripe.com/blog/engineering)                                  | Stripe Engineering Blog.                                |
 | [Stylight](https://tech.stylight.com/)                                         | Stylight Tech Blog                                      |
 | [Swiggy](https://bytes.swiggy.com/)                                            | Swiggy Engineering                                      |
-| [Tally Market](https://www.tallymarket.co.uk/blog)                             | Tally Market Blog. 
+| [Tally Market](https://www.tallymarket.co.uk/blog)                             | Tally Market 
+Blog.                                               |
 | [TellApart](https://www.tellapart.com/engineering-blog/)                       | TellApart Blog.                                         |
 | [ThoughtWorks](https://www.thoughtworks.com/insights)                          | ThoughtWorks Engineering Blog.                          |
 | [Toptal](https://www.toptal.com/blog)                                          | Toptal Blog.                                            |
