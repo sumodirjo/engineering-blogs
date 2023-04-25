@@ -3,7 +3,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [500px](https://developers.500px.com/)                                         | 500px Engineering Blog.                                 |                                         
+| [500px](https://developers.500px.com/)                                         | 500px Engineering Blog.                                 |               
 | [8thLight](https://8thlight.com/blog/)                                         | 8th Light Engineering Blog.                             |
 | [99Designs](https://99designs.com/tech-blog/)                                  | 99Designs Tech Blog.                                    |
 | [9GAG](https://engineering.9gag.com/)                                          | 9GAG Engineering Blog.                                  |
@@ -13,16 +13,17 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Affinity](https://build.affinity.co/)                                         | Affinity Engineering Blog.                              |
 | [Affirm](https://tech.affirm.com/)                                             | Affirm Engineering Blog.                                |
 | [AirBnB](http://nerds.airbnb.com/)                                             | AirBnB Engineering blog.                                |
-| [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |                                         |
+| [AirBrake](https://airbrake.io/blog/)                                          | AirBrake Blog.                                          |               
 | [AirPair](https://www.airpair.com/software-experts)                            | AirPair Blog.                                           |
 | [Airtame](https://airtame.engineering/)                                        | Airtame Blog.                                           |
 | [Algolia](https://blog.algolia.com/)                                           | Algolia Blog.                                           |
 | [Allegro](https://allegro.tech/)                                               | Allegro.tech Blog.                                      |
 | [Amazon](https://developer.amazon.com/blogs)                                   | Amazon Developer Blog.                                  |
 | [Anvil](https://www.useanvil.com/blog/engineering/)                            | Anvil Engineering Blog.                                 |
+| [Argonaut](https://www.argonaut.dev/blog)                                      | Argonaut Blog.                                          |
 | [Artsy](https://artsy.github.io/)                                              | Artsy Engineering Blog.                                 |
 | [Asana](https://blog.asana.com/category/eng/)                                  | Asana Engineering.                                      |
-| [Ascenda Loyalty](https://loyalty.dev/)					 | Ascenda Loyalty Engineering Blog.			   |
+| [Ascenda Loyalty](https://loyalty.dev/)					                               | Ascenda Loyalty Engineering Blog.			                 |
 | [ASOS](https://medium.com/asos-techblog)                                       | ASOS Tech Blog.                                         |
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.                              |
