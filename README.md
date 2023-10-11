@@ -187,6 +187,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Snapdeal](http://engineering.snapdeal.com/)                                   | Snapdeal Engineering Blog.                              |
 | [Songkick](https://devblog.songkick.com/)                                      | Songkick Technology Blog.                               |
 | [SoundCloud](https://developers.soundcloud.com/blog/)                          | SoundCloud Backstage.                                   |
+| [Spacelift](https://spacelift.io/blog)                                         | Spacelift Blog                                          |
 | [Spotify](https://labs.spotify.com/)                                           | Spotify's Engineering and Technology Blog.              |
 | [Squadcast](https://www.squadcast.com/blog)                                    | Squadcast's site reliability engineering blog.          |
 | [Square](https://developer.squareup.com/blog/)                                 | The Corner, Square Engineering Blog.                    |
