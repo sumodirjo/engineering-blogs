@@ -229,6 +229,8 @@ A curated list of engineering blogs of startup and enterprise companies.
 
 # Engineering Blogs Tools
 
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [diff.blog](https://diff.blog)                                                 | Easy way to follow Engineering and Developer blogs      |
+| Link                                                   | Description                                                                      |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------|
+| [diff.blog](https://diff.blog)                         | Easy way to follow Engineering and Developer blogs                               |
+| [Big Tech Digest](https://bigtechdigest.substack.com/) | Newsletter aggregating the latest engineering blog posts from all tech companies |
+
