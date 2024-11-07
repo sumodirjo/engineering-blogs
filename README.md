@@ -164,6 +164,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Postmarkapp](https://postmarkapp.com/blog)                                    | Postmarkapp Blog.                                       |
 | [Practo](https://medium.com/practo-engineering)                                | Practo Engineering Blog.                                |
 | [Prezi](https://engineering.prezi.com/)                                        | Prezi Engineering.                                      |
+| [Pulumi](https://www.pulumi.com/blog/)                                         | Pulumi Blog.                                            |
 | [Quora](https://engineering.quora.com/)                                        | Engineering at Quora.                                   |
 | [Raintank](https://blog.raintank.io/)                                          | Raintank Blog.                                          |
 | [Ramp](https://engineering.ramp.com/)                                          | Ramp Engineering Blog.                                  |
