@@ -50,6 +50,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Branch](https://blog.branch.io/)                                              | Branch Blog.                                            |
 | [Booking](https://blog.booking.com/)                                           | Booking.com Blog.                                       |
 | [BookMyShow](https://we-are.bookmyshow.com/)                                   | BookMyShow Blog.                                        |
+| [Buildkite](https://buildkite.com/resources/blog/category/engineering/)        | Buildkite Engineering Blog.                             |
 | [Canva](https://engineering.canva.com/)                                        | Canva Blog                                              |
 | [Captricity](https://captricity.com/blog/)                                     | Captricity Blog.                                        |
 | [Carbon Five](http://blog.carbonfive.com/)                                     | Carbon Five Blog.                                       |
