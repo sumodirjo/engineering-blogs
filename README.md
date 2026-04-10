@@ -28,6 +28,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Atlassian](https://developer.atlassian.com/blog/)                             | Atlassian Engineering Blog.                             |
 | [Autodesk](http://cloudengineering.autodesk.com/blog/)                         | Autodesk Engineering Blog.                              |
 | [AuthO](https://auth0.com/blog/)                                               | AuthO Engineering Blog.                                 |
+| [Axeploit](https://axeploit.com/blog/)                                         | Axeploit Engineering Blog.                              |
 | [Avant](http://avant.engineering/)                                             | Avant Engineering.                                      |
 | [Babbel](https://bytes.babbel.com/en/)                                         | Babbel Engineering.                                     |
 | [Backtrace](https://backtrace.io/blog/)                                        | Backtrace Blog.                                         |
