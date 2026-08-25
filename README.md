@@ -80,6 +80,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Docker Blog](https://blog.docker.com/)                                        | Docker Blog.                                            |
 | [Docker Engineering Blog](https://engineering.docker.com/)                     | Docker Engineering Blog.                                |
 | [Docler Engineering Blog](https://medium.com/docler-engineering)               | Docler Engineering Blog.                                |
+| [DevOps Daily](https://devops-daily.com/posts)                                 | DevOps Daily articles on Kubernetes, Docker, Terraform and SRE. |
 | [DoorDash Engineering Blog](https://doordash.engineering)                      | DoorDash Engineering Blog.                              |
 | [Doximity](https://engineering.doximity.com)                                   | Doximity Engineering Blog.                              |
 | [Dropbox](https://blogs.dropbox.com/tech/)                                     | Dropbox Tech Blog.                                      |
