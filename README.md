@@ -84,6 +84,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Doximity](https://engineering.doximity.com)                                   | Doximity Engineering Blog.                              |
 | [Dropbox](https://blogs.dropbox.com/tech/)                                     | Dropbox Tech Blog.                                      |
 | [ebay](http://www.ebaytechblog.com)                                            | eBay Tech Blog.                                         |
+| [Edilec](https://edilec.com/blog/)                                             | Edilec engineering, AI and cloud operations blog.      |
 | [Elastic](https://www.elastic.co/blog)                                         | Elastic Blog.                                           |
 | [EngineYard](https://blog.engineyard.com/)                                     | Engine Yard Blog.                                       |
 | [Etsy](https://codeascraft.com/)                                               | Code As Craft, Etsy Engineering Blog.                   |
