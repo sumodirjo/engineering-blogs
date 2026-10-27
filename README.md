@@ -138,6 +138,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Kaggle](http://blog.kaggle.com/)                                              | Kaggle Blog.                                            |
 | [Khan Academy Engineering Blog](http://engineering.khanacademy.org/)           | Khan Academy Engineering Blog.                          |
 | [Levvel](https://www.levvel.io/blog/)                                          | Levvel Blog.                                            |
+| [Light Cloud](https://blog.light-cloud.com/)                                   | Light Cloud Engineering Blog.                           |
 | [LinkedIn](https://engineering.linkedin.com/blog)                              | LinkedIn Engineering.                                   |
 | [LiveChat](https://developers.livechatinc.com/blog/)                           | LiveChat Developers Blog.                               |
 | [LoginRadius](https://www.loginradius.com/engineering/)                        | LoginRadius Engineering Blog.                           |
