@@ -185,6 +185,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Sensible](https://blog.sensible.io/)                                          | Sensible Blog.                                          |
 | [Shopify](https://engineering.shopify.com)                                     | Shopify Engineering Blog.                               |
 | [Showmax](https://tech.showmax.com)                                            | Showmax Engineering Blog.                               |
+| [SiftingIO](https://sifting.io/blog/category/developer-tutorials) | Market-data API integration and developer tutorials. |
 | [Simulmedia](http://www.simulmedia.com/resources/blog/categories/engineering/) | Simulmedia Engineering.                                 |
 | [Slack](https://slack.engineering/)                                            | Slack Engineering Blog.                                 |
 | [SlideShare](http://engineering.slideshare.net/)                               | SlideShare Engineering Blog.                            |
