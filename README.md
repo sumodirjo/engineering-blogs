@@ -83,6 +83,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [DoorDash Engineering Blog](https://doordash.engineering)                      | DoorDash Engineering Blog.                              |
 | [Doximity](https://engineering.doximity.com)                                   | Doximity Engineering Blog.                              |
 | [Dropbox](https://blogs.dropbox.com/tech/)                                     | Dropbox Tech Blog.                                      |
+| [Easinvy](https://easinvy.com/notes)                                           | Easinvy engineering notes from a production billing app. |
 | [ebay](http://www.ebaytechblog.com)                                            | eBay Tech Blog.                                         |
 | [Edilec](https://edilec.com/blog/)                                             | Edilec engineering, AI and cloud operations blog.      |
 | [Elastic](https://www.elastic.co/blog)                                         | Elastic Blog.                                           |
